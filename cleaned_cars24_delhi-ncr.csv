@@ -1,0 +1,581 @@
+Brand,Car Model,Car Name,Car Transmission,KM driven,Owner Type,Fuel Type,Registration ID,Monthly EMI,Car Price,Downpayment Amount,Location,City
+Maruti,2016,Wagon R 1.0 VXI,Manual,79430,2nd,Petrol,HR26-DA5416,5806,297000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2022,PUNCH ACCOMPLISHED MT,Manual,21955,1st,Petrol,DL11-CC9237,13646,698000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2023,Swift VXI AMT,Automatic,11603,1st,Petrol,HR26-FD3340,13763,704000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Nissan,2022,MAGNITE XE,Manual,19269,1st,Petrol,HR16-Z7809,11711,599000,0,Parsvnath City Mall,Delhi
+Honda,2021,City 1.5L I-VTEC V MT 4TH GEN,Manual,11120,1st,Petrol,DL10-CQ7523,18197,956000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2018,Wagon R 1.0 LXI CNG,Manual,56257,1st,CNG,HR26-DS8532,7840,401000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2014,Elite i20 ASTA 1.2,Manual,68876,1st,Petrol,DL4C-BA3256,9343,420000,0,Parsvnath City Mall,Delhi
+Mahindra,2021,XUV300 W6 1.2 PETROL,Manual,38872,1st,Petrol,UP16-CY9690,18520,973000,0,KW Delhi 6,Delhi
+Maruti,2019,New Wagon-R VXI 1.0,Manual,19823,1st,Petrol,DL1C-AB9525,8602,440000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Tata,2022,PUNCH CREATIVE AMT,Automatic,30185,1st,Petrol,UP16-DH1790,15646,822000,0,KW Delhi 6,Delhi
+Hyundai,2021,VENUE S+ 1.2,Manual,22008,1st,Petrol,HR51-CE8227,15494,814000,0,Parsvnath City Mall,Delhi
+Hyundai,2022,Creta EX 1.5 PETROL,Manual,19352,1st,Petrol,DL5C-T9459,23260,1222000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2018,Alto 800 LXI,Manual,67026,2nd,Petrol,HR50-G1397,5474,280000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Mahindra,2021,Thar LX PETROL HT 4WD AT,Automatic,19467,1st,Petrol,HR98-B0226,28285,1486000,0,Parsvnath City Mall,Delhi
+Nissan,2022,MAGNITE XE,Manual,36341,1st,Petrol,HR51-CH7167,11359,581000,0,Parsvnath City Mall,Delhi
+Maruti,2017,Dzire VXI,Manual,86115,1st,Petrol,DL12-CM5764,9052,463000,0,Sector-18,Delhi
+Maruti,2020,Baleno ZETA PETROL 1.2,Manual,72471,2nd,Petrol,HR70-F7888,11671,597000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Tata,2022,Tiago XM CNG,Manual,8031,1st,CNG,DL3C-CV3769,12590,644000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Tata,2020,Tiago XZA PLUS DUAL TONE PETROL,Automatic,33731,2nd,Petrol,DL10-CN7498,10401,532000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2019,Verna 1.6 VTVT SX,Manual,61790,1st,Petrol,UP16-CE2466,16940,890000,0,Sector-18,Delhi
+Maruti,2019,Alto K10 VXI,Manual,16452,1st,Petrol,UP70-EX1272,7222,369000,0,Sector-18,Delhi
+Maruti,2019,Vitara Brezza ZDI AMT,Automatic,28098,1st,Diesel,DL2C-BA7913,17239,775000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Tata,2022,PUNCH CREATIVE AMT,Automatic,13402,1st,Petrol,HR98-H7952,15951,838000,0,Parsvnath City Mall,Delhi
+Maruti,2019,New Wagon-R VXI 1.2,Manual,41319,1st,Petrol,DL9C-AS1385,9208,471000,0,Sector-18,Delhi
+KIA,2019,SELTOS HTK PLUS 1.5,Manual,27143,1st,Petrol,DL12-CR7042,19548,1027000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2016,Celerio ZXI,Manual,84956,2nd,Petrol,DL2C-AQ7420,6217,318000,0,Sector-18,Delhi
+Hyundai,2015,Elite i20 MAGNA 1.2,Manual,84601,1st,Petrol,DL8C-AK5536,8739,447000,0,Sector-18,Delhi
+Tata,2020,ALTROZ XE PETROL,Manual,32911,1st,Petrol,DL3C-CT1491,10635,544000,0,GIP Mall,Delhi
+Mahindra,2021,XUV700 AX 5 P MT 7 STR,Manual,36981,1st,Petrol,DL8C-BC9119,27752,1458000,0,Chhatarpur,Delhi
+KIA,2022,SONET HTK PLUS 1.2,Manual,12265,1st,Petrol,DL8C-BD5644,17405,914000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2023,Alto K10 VXI,Manual,9400,1st,Petrol,UP14-FM8092,9540,488000,0,Sector-18,Delhi
+Maruti,2014,Wagon R 1.0 LXI,Manual,65520,1st,Petrol,DL13-CA9313,5761,259000,0,Sector-18,Delhi
+Maruti,2020,Baleno ZETA PETROL 1.2,Manual,31845,1st,Petrol,HR36-AJ3243,13177,674000,0,Chhatarpur,Delhi
+Maruti,2018,Wagon R 1.0 VXI AMT,Manual,27391,1st,Petrol,DL8C-AU8609,8504,434999,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2019,Baleno DELTA PETROL 1.2,Manual,24567,1st,Petrol,DL1C-AB4982,11867,607000,0,GIP Mall,Delhi
+Maruti,2019,Vitara Brezza ZDI AMT,Automatic,71551,1st,Diesel,HR26-DX1717,16728,752000,0,Parsvnath City Mall,Delhi
+Tata,2020,ALTROZ XT PETROL,Manual,34739,1st,Petrol,UP16-CQ6819,12590,644000,0,Sector-18,Delhi
+Maruti,2012,Alto 800 LXI,Manual,64211,1st,Petrol,DL9C-AG2690,5414,163000,0,Sector-18,Delhi
+KIA,2021,SELTOS HTK PLUS 1.5 IMT,Manual,22413,2nd,Petrol,HR26-EP1178,19738,1036999,0,Parsvnath City Mall,Delhi
+Maruti,2019,Vitara Brezza VDI AMT,Automatic,59155,2nd,Diesel,HR29-AT2860,14481,651000,0,Parsvnath City Mall,Delhi
+Hyundai,2014,i20 SPORTZ 1.2,Manual,78713,1st,Petrol,HR26-CF8884,8186,368000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2016,Celerio ZXI AMT,Automatic,37597,2nd,Petrol,HR44-H8912,8250,422000,0,Parsvnath City Mall,Delhi
+Mahindra,2019,XUV300 W6 1.5 DIESEL,Manual,28660,1st,Diesel,DL8C-AZ1825,17684,795000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2016,Creta SX PLUS 1.6 PETROL,Manual,84938,2nd,CNG,HR26-DA6141,16216,729000,0,Parsvnath City Mall,Delhi
+Tata,2021,Safari XZ,Manual,30203,1st,Diesel,DL12-CU2961,30683,1612000,0,Chhatarpur,Delhi
+Tata,2020,Tiago XZ PLUS PETROL,Manual,18457,1st,Petrol,UP16-CU3581,11144,570000,0,KW Delhi 6,Delhi
+Maruti,2020,New Wagon-R VXI 1.2,Manual,6175,1st,Petrol,DL9C-AT7320,10049,513999,0,Sector-18,Delhi
+Hyundai,2014,Santro Xing GL PLUS,Manual,68366,1st,Petrol,DL8C-AF5402,4671,210000,0,"Metro Walk, Rohini, New Delhi",Delhi
+KIA,2022,CARENS LUXURY PLUS 1.4 PETROL 6 STR,Manual,24315,1st,Petrol,UP16-DD6854,31920,1677000,0,Sector-18,Delhi
+Mahindra,2020,XUV300 W6 1.2 PETROL,Manual,40924,1st,Petrol,DL7C-R5127,14291,731000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2020,AURA S 1.2 CNG,Manual,52647,1st,CNG,UP14-EL5178,13079,669000,0,Sector-18,Delhi
+Tata,2022,NEXON XZ PLUS (O) PETROL DARK EDITION,Manual,28067,1st,Petrol,HR87-H6560,19719,1036000,0,Parsvnath City Mall,Delhi
+Maruti,2012,Wagon R 1.0 VXI,Manual,74637,2nd,Petrol,DL6C-M2328,6743,202999,0,KW Delhi 6,Delhi
+Mahindra,2023,XUV300 W8 (O) 1.2 PETROL,Manual,12057,1st,Petrol,UP65-EV8108,22574,1186000,0,KW Delhi 6,Delhi
+Hyundai,2016,i20 Active 1.2 S,Manual,46923,1st,Petrol,UP16-BH1617,9951,509000,0,Sector-18,Delhi
+Tata,2022,NEXON XZ PLUS PETROL SUNROOF,Manual,42490,1st,Petrol,UP16-DC0621,18939,994999,0,Sector-18,Delhi
+Tata,2022,Tiago XZ PLUS CNG,Manual,22213,1st,CNG,DL9C-AX5084,14509,742000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2011,i10 SPORTZ 1.2 AT,Automatic,61445,4th,Petrol,DL3C-BV4686,9415,200000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2017,Baleno DELTA PETROL 1.2,Manual,89083,1st,Petrol,DL12-CM0128,8491,434000,0,Chhatarpur,Delhi
+Renault,2020,Kwid RXT 1.0 AMT (O),Automatic,52813,1st,Petrol,DL3C-CT3254,8250,422000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2019,NEW SANTRO SPORTZ MT,Manual,65427,1st,Petrol,HR26-DY9583,8348,426999,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Volkswagen,2022,VIRTUS COMFORTLINE TSI 1.0 MT,Manual,26431,1st,Petrol,HR26-EW8316,17473,918000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Hyundai,2020,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,56055,1st,Petrol,DL4C-AZ6075,10772,551000,0,GIP Mall,Delhi
+Hyundai,2021,NEW I20 ASTA (O) 1.0 TURBO GDI DCT,Automatic,20607,2nd,Petrol,DL3C-CU1607,18120,952000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2013,i20 SPORTZ 1.2,Manual,50975,1st,Petrol,DL7C-P5395,8137,309000,0,Chhatarpur,Delhi
+Maruti,2018,Swift LXI,Manual,48748,2nd,Petrol,DL8C-AV3224,8250,422000,0,KW Delhi 6,Delhi
+Hyundai,2015,Grand i10 ASTA AT 1.2 KAPPA VTVT,Automatic,49639,2nd,Petrol,UP16-BB2741,8680,444000,0,Sector-18,Delhi
+Honda,2017,WR-V 1.2L I-VTEC S MT,Manual,31154,1st,Petrol,HR26-DE4505,10195,521000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2023,Alto VXI PLUS,Manual,17825,1st,Petrol,DL9C-BB5602,8328,426000,0,KW Delhi 6,Delhi
+Maruti,2022,Baleno ZETA PETROL 1.2,Manual,17600,1st,Petrol,DL9C-AY8733,15562,796000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2019,WR-V 1.2L I-VTEC VX MT,Manual,17242,1st,Petrol,DL11-CB6563,14760,755000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2020,Baleno SIGMA PETROL 1.2,Manual,25069,1st,Petrol,HR98-6148,11144,570000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2020,ALTROZ XT PETROL,Manual,44696,1st,Petrol,HR51-CB5789,12708,650000,0,Parsvnath City Mall,Delhi
+Hyundai,2019,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,33693,1st,Petrol,UP14-EB0540,10342,529000,0,Sector-18,Delhi
+Maruti,2021,IGNIS SIGMA 1.2,Manual,25742,1st,Petrol,HR26-ES9650,9892,505999,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2021,IGNIS ZETA 1.2 AMT,Automatic,13494,1st,Petrol,UP16-CY4024,12803,655000,0,GIP Mall,Delhi
+Maruti,2017,IGNIS ALPHA 1.2,Manual,52939,2nd,Petrol,DL12-CL1248,8250,422000,0,Sector-18,Delhi
+Maruti,2018,Baleno DELTA PETROL 1.2,Manual,73594,1st,Petrol,UP16-BY2021,10049,513999,0,GIP Mall,Delhi
+Datsun,2019,Redi Go A,Manual,22205,1st,Petrol,DL7C-R4758,4888,250000,0,Sector-18,Delhi
+Hyundai,2018,Creta SX PLUS AT 1.6 PETROL,Automatic,86490,1st,Petrol,DL2C-AY7019,18412,967000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2023,BREZZA VXI SMART HYBRID,Manual,19281,1st,Petrol,HR51-CK7914,18577,976000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Nissan,2022,MAGNITE XE,Manual,13589,1st,Petrol,HR29-AZ3534,11054,565000,0,Parsvnath City Mall,Delhi
+Maruti,2019,Swift LXI,Manual,57073,1st,Petrol,DL5C-Q9128,9247,473000,0,GIP Mall,Delhi
+Volkswagen,2023,VIRTUS HIGHLINE TSI 1.0 AT,Automatic,9083,1st,Petrol,HR98-K3810,26895,1413000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2022,NEXON XZ PLUS (L) DARK EDITION,Manual,36070,1st,Petrol,DL3C-CX8770,21566,1133000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2015,Wagon R 1.0 LXI,Manual,35851,1st,Petrol,DL2C-AT8426,5455,279000,0,Sector-18,Delhi
+Hyundai,2019,Verna 1.6 VTVT SX (O) AT,Automatic,40798,2nd,Petrol,HR51-BX1455,17435,916000,0,Parsvnath City Mall,Delhi
+Maruti,2021,Alto VXI,Manual,54855,1st,Petrol,UP14-EU4732,7194,368000,0,GIP Mall,Delhi
+Maruti,2019,Baleno ZETA CVT PETROL 1.2,Automatic,22779,2nd,Petrol,UP16-DL8895,13216,676000,0,Sector-18,Delhi
+Maruti,2016,Celerio VXI,Manual,54080,2nd,Petrol,HR26-CV7265,6041,309000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2018,Elite i20 ASTA 1.2 (O),Manual,48575,3rd,Petrol,DL5C-P6482,10577,541000,0,Chhatarpur,Delhi
+Ford,2017,Ecosport AMBIENTE 1.5L PETROL,Manual,86358,1st,Petrol,DL10-CJ0531,9521,487000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2022,Baleno ALPHA PETROL 1.2,Manual,32318,1st,CNG,HR51-CG8647,15542,795000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2018,WR-V 1.5L I-DTEC S MT,Manual,51943,2nd,Diesel,DL9C-AP9731,12535,476000,0,GIP Mall,Delhi
+Hyundai,2014,Eon ERA +,Manual,44972,2nd,Petrol,UP37-C2751,4360,196000,0,Sector-18,Delhi
+Maruti,2018,Swift VXI,Manual,35356,2nd,Petrol,DL2C-AY3227,9775,500000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Tata,2021,ALTROZ XM PLUS PETROL,Manual,43427,2nd,Petrol,HR22-S7462,11574,592000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2018,Swift LXI,Manual,53062,1st,Petrol,HR72-D1272,8543,437000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Hyundai,2017,Elite i20 MAGNA EXECUTIVE 1.2,Manual,59105,1st,CNG,DL8C-AS3680,9580,490000,0,Chhatarpur,Delhi
+Hyundai,2019,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,Manual,29932,1st,Petrol,HR52-F5035,10283,526000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Volkswagen,2014,Polo HIGHLINE1.2L,Manual,53792,2nd,Petrol,DL3C-BW3319,8164,367000,0,Sector-18,Delhi
+Nissan,2022,MAGNITE XV RED EDITION,Manual,15648,1st,Petrol,DL14-CG4695,13861,709000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Toyota,2017,Fortuner 2.8 4X2 AT,Automatic,103102,1st,Diesel,DL8C-AQ2032,74742,2283000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Mahindra,2019,Scorpio S5,Manual,58255,1st,Diesel,DL12-CQ9402,22221,1022000,0,GIP Mall,Delhi
+Tata,2023,ALTROZ XZ PETROL,Manual,16595,1st,Petrol,DL12-CW6848,14452,739000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Renault,2019,TRIBER RXT,Manual,47711,1st,Petrol,HR12-AK4611,9286,475000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Toyota,2019,Innova Crysta 2.4 GX 8 STR,Manual,53809,2nd,Diesel,HR26-DW1719,27722,1275000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Hyundai,2022,NEW I20 ASTA (O) 1.2 MT,Manual,29783,1st,Petrol,DL9C-AZ7458,15437,811000,0,Chhatarpur,Delhi
+Hyundai,2021,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,Manual,22799,1st,Petrol,UP16-CV4689,11593,593000,0,KW Delhi 6,Delhi
+Maruti,2021,S PRESSO VXI+,Manual,7319,1st,Petrol,DL9C-AW3370,8866,454000,0,Sector-18,Delhi
+Toyota,2014,Corolla Altis G PETROL,Manual,78957,2nd,Petrol,UP78-DS0010,11723,527000,0,GIP Mall,Delhi
+Tata,2021,PUNCH ACCOMPLISHED AMT,Automatic,13832,1st,Petrol,HR98-C8390,13255,678000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2019,Amaze 1.2L I-VTEC S,Manual,60688,1st,Petrol,DL4C-AY9640,10479,536000,0,KW Delhi 6,Delhi
+Honda,2019,Civic 1.6L I-DTEC VX MT,Manual,50016,1st,Diesel,UP14-EF6007,28846,1327000,0,Sector-18,Delhi
+Honda,2021,City 1.5L I-VTEC ZX,Manual,28283,1st,Petrol,HR36-AK8397,20405,1072000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2021,Tiago XT PETROL,Manual,7483,1st,Petrol,DL5C-S8414,10147,519000,0,Sector-18,Delhi
+Hyundai,2021,VENUE S 1.2,Manual,42769,1st,Petrol,HR36-AJ4411,14506,742000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Ford,2019,Ecosport AMBIENTE 1.5L PETROL,Manual,34776,1st,Petrol,DL12-CR0466,12737,651000,0,Sector-18,Delhi
+Maruti,2019,Baleno ALPHA PETROL 1.2,Manual,48887,1st,Petrol,DL5C-R0884,13060,668000,0,GIP Mall,Delhi
+Toyota,2022,URBAN CRUISER PREMIUM GRADE AT,Automatic,32385,1st,Petrol,HR02-AX5989,18939,994999,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2017,Baleno DELTA PETROL 1.2,Manual,31714,1st,Petrol,DL2C-AX5882,10264,525000,0,Chhatarpur,Delhi
+Hyundai,2015,Elite i20 SPORTZ 1.2,Manual,76297,2nd,Petrol,DL7C-T6228,8094,413999,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Hyundai,2019,NEW SANTRO SPORTZ MT,Manual,24771,1st,Petrol,DL10-CM6894,9384,480000,0,GIP Mall,Delhi
+Maruti,2019,Swift VXI,Manual,60993,1st,Petrol,HR14-Q7384,10186,521000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Renault,2021,Kwid RXL,Manual,51572,1st,Petrol,DL3C-CU5107,6800,348000,0,Sector-18,Delhi
+Volkswagen,2019,Polo TRENDLINE 1.0L,Manual,69775,1st,Petrol,HR12-AJ1606,9540,488000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2015,Wagon R 1.0 LXI,Manual,79400,2nd,Petrol,DL3C-CJ1068,4614,236000,0,Chhatarpur,Delhi
+Honda,2015,Amaze 1.2L I-VTEC S,Manual,49652,1st,Petrol,DL4C-AW5843,7370,377000,0,KW Delhi 6,Delhi
+KIA,2019,SELTOS GTX 1.4 PETROL DUAL TONE,Manual,11700,2nd,Petrol,DL14-CE8420,22251,1169000,0,Sector-18,Delhi
+Tata,2021,Tiago XZ PLUS PETROL,Manual,21869,1st,Petrol,UP72-BM0384,10557,540000,0,KW Delhi 6,Delhi
+Hyundai,2017,Elite i20 SPORTZ 1.2,Manual,24686,1st,Petrol,UP14-DN0049,10831,554000,0,GIP Mall,Delhi
+Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,40032,2nd,Petrol,DL8C-AN1472,7292,373000,0,KW Delhi 6,Delhi
+Hyundai,2017,Elite i20 SPORTZ 1.2,Manual,34704,1st,Petrol,DL5C-P2677,10107,517000,0,Chhatarpur,Delhi
+Hyundai,2015,Elite i20 SPORTZ 1.2 (O),Manual,50789,1st,Petrol,DL2C-AT6166,9247,473000,0,Sector-18,Delhi
+Ford,2019,Ecosport TITANIUM 1.5L DIESEL,Manual,27603,3rd,Diesel,DL10-CN2358,15527,698000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2022,Ertiga ZXI+ AT SHVS,Automatic,21894,2nd,Petrol,HR29-AY4759,20823,1094000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Volkswagen,2018,Ameo TRENDLINE 1.0L,Manual,67051,1st,Petrol,HR26-DT6007,8543,437000,0,Parsvnath City Mall,Delhi
+Toyota,2022,URBAN CRUISER MID GRADE AT,Automatic,6306,2nd,Petrol,UP16-DC5098,16826,884000,0,Sector-18,Delhi
+Volkswagen,2011,Polo COMFORTLINE 1.2L PETROL,Manual,80811,1st,Petrol,HR06-Y5677,9085,193000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2022,Amaze 1.2L I-VTEC S,Manual,12644,1st,Petrol,HR51-CH1025,12819,656000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2022,Harrier XT 2.0L KRYOTEC,Manual,35606,1st,Diesel,DL7C-S8510,25875,1359000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Mahindra,2019,Scorpio S9,Manual,21437,1st,Diesel,HR26-DZ5354,27504,1265000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2021,S PRESSO VXI+,Manual,12058,1st,Petrol,DL12-CT4526,9169,469000,0,Sector-18,Delhi
+Hyundai,2019,NEW SANTRO ERA EXECUTIVE,Manual,69156,1st,Petrol,DL9C-AS5126,7761,397000,0,GIP Mall,Delhi
+Maruti,2020,Baleno ZETA PETROL 1.2,Manual,21878,1st,Petrol,DL5C-R7585,13959,714000,0,GIP Mall,Delhi
+Hyundai,2017,Elite i20 MAGNA EXECUTIVE 1.2,Manual,27659,3rd,Petrol,DL7C-Q1752,9971,509999,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2018,Elite i20 ASTA 1.2 DUAL TONE,Manual,32110,1st,Petrol,UP16-BY8770,13177,674000,0,KW Delhi 6,Delhi
+Tata,2018,Tiago XZA PETROL,Automatic,112133,1st,Petrol,HR26-DN8928,8319,374000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2015,Alto K10 VXI AMT,Automatic,64562,3rd,Petrol,HR72-B4641,4868,249000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Datsun,2017,Go ANNIVERSARY EDITION,Manual,59262,2nd,Petrol,DL8C-AR3864,5357,274000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2015,City 1.5L I-VTEC SV,Manual,75339,2nd,Petrol,DL9C-U9926,9130,467000,0,KW Delhi 6,Delhi
+Ford,2019,Ecosport TITANIUM + 1.5L PETROL AT,Automatic,28080,1st,Petrol,UP14-EC7079,16712,877999,0,GIP Mall,Delhi
+Jeep,2019,Compass SPORT PLUS 2.0 DIESEL,Manual,45245,1st,Diesel,DL3C-CR0322,22438,1032000,0,KW Delhi 6,Delhi
+Tata,2019,NEXON XM PETROL,Manual,18382,1st,Petrol,UP14-EH5004,13235,677000,0,Sector-18,Delhi
+Nissan,2022,MAGNITE XE,Manual,12695,1st,Petrol,DL14-CG6027,11339,580000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Ford,2019,Ecosport TITANIUM 1.5L SIGNATURE EDITION (SUNROOF) PETROL,Manual,22956,2nd,CNG,DL12-CR2688,15347,785000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Mahindra,2022,Thar LX P 4WD AT CONVERTIBLE,Automatic,15519,2nd,Petrol,UP21-CQ0555,25487,1339000,0,Sector-18,Delhi
+KIA,2022,SONET GTX PLUS 1.0 IMT,Manual,22717,1st,Petrol,UP32-MS4280,23241,1221000,0,KW Delhi 6,Delhi
+Nissan,2021,MAGNITE XE,Manual,30455,1st,Petrol,DL8C-BC7865,10968,561000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Tata,2020,NEXON XM SUNROOF DIESEL,Manual,71108,1st,Diesel,DL7C-R8963,13998,716000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Volkswagen,2022,TAIGUN TOPLINE 1.0 TSI MT,Manual,14449,1st,Petrol,HR29-BA9344,25144,1321000,0,Parsvnath City Mall,Delhi
+KIA,2022,SONET HTX 1.0 IMT,Manual,20224,2nd,Petrol,DL14-CG4453,19053,1001000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Renault,2021,Kwid RXL,Manual,24475,2nd,Petrol,HR20-AU4987,6999,358000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Hyundai,2022,VENUE SX 1.5 CRDI,Manual,34255,2nd,Diesel,UP14-EZ4887,18501,972000,0,Sector-18,Delhi
+Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,32410,1st,Petrol,UP14-DN4496,8778,449000,0,KW Delhi 6,Delhi
+Maruti,2019,Swift VXI,Manual,19744,1st,Petrol,UP14-EE2729,11007,563000,0,GIP Mall,Delhi
+Honda,2022,Amaze 1.2L I-VTEC S CVT,Automatic,17110,1st,Petrol,UP16-DK4136,14741,754000,0,Sector-18,Delhi
+Honda,2013,City 1.5L I-VTEC S MT,Manual,96188,1st,Petrol,UP16-AP1163,8611,327000,0,GIP Mall,Delhi
+Maruti,2015,Wagon R 1.0 VXI,Manual,38479,1st,Petrol,DL8C-AJ3466,5885,301000,0,Chhatarpur,Delhi
+Honda,2020,City 1.5L I-VTE V CVT,Manual,55879,1st,Petrol,DL14-CE8647,16769,881000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,Manual,70727,3rd,CNG,DL12-CK2099,8698,391000,0,KW Delhi 6,Delhi
+Honda,2018,WR-V 1.2L I-VTEC VX MT,Manual,9363,1st,Petrol,DL2C-AZ0232,13353,683000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2019,Amaze 1.2L I-VTEC S,Manual,47429,1st,Petrol,DL10-CN1355,10968,561000,0,Chhatarpur,Delhi
+Maruti,2022,Eeco 5 STR AC CNG,Manual,10783,1st,CNG,DL8C-BD4954,12238,626000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2018,Celerio VXI,Manual,11942,1st,Petrol,DL12-CN1604,7918,405000,0,GIP Mall,Delhi
+Volkswagen,2019,Ameo TRENDLINE 1.5L,Manual,54341,1st,Diesel,UP14-EF1831,11211,504000,0,Sector-18,Delhi
+Hyundai,2013,i10 ERA 1.1,Manual,58454,1st,Petrol,DL2C-AR3327,5825,221000,0,KW Delhi 6,Delhi
+Honda,2019,Amaze 1.2L I-VTEC S,Manual,39901,2nd,Petrol,HR87-D1266,10283,526000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2018,Alto 800 LXI,Manual,39074,1st,Petrol,DL8C-AT7886,5455,279000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2017,City 1.5L I-VTEC VX,Manual,88144,1st,Petrol,UP15-CF0151,13744,703000,0,Sector-18,Delhi
+KIA,2020,SONET HTK PLUS 1.5,Manual,35537,1st,Diesel,HR98-A4141,16645,874000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,95564,1st,CNG,DL5C-Q1786,8231,421000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+MG,2020,HECTOR SHARP 1.5 DCT PETROL,Automatic,50365,2nd,Petrol,HR26-EH1362,26381,1386000,0,Parsvnath City Mall,Delhi
+Tata,2023,PUNCH ADVENTURE AMT,Automatic,9734,1st,Petrol,DL12-CW2623,14135,723000,0,Chhatarpur,Delhi
+Honda,2019,City 1.5L I-VTE V CVT,Automatic,69621,1st,Petrol,DL8C-AY5764,16312,857000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2017,Elite i20 SPORTZ 1.2,Manual,31781,1st,Petrol,HR26-DG8469,10889,557000,0,KW Delhi 6,Delhi
+Hyundai,2015,i20 Active 1.2 SX,Manual,51090,1st,Petrol,DL8C-AM5323,9325,476999,0,Sector-18,Delhi
+Maruti,2022,S Cross SIGMA 1.5,Manual,15983,1st,Petrol,HR51-CG8212,16750,880000,0,Parsvnath City Mall,Delhi
+Hyundai,2019,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,26498,1st,Petrol,HR36-AF2688,9677,495000,0,Parsvnath City Mall,Delhi
+Skoda,2018,Rapid STYLE 1.6 MPI AT,Automatic,69933,1st,Petrol,DL2C-AZ5462,14506,742000,0,Sector-18,Delhi
+KIA,2022,SELTOS HTE 1.5 DIESEL,Manual,36166,1st,Diesel,HR49-J3196,21432,1126000,0,Parsvnath City Mall,Delhi
+Mahindra,2023,BOLERO NEO N10 R,Manual,7258,1st,Diesel,HR26-FC6488,20481,1076000,0,Parsvnath City Mall,Delhi
+Maruti,2019,IGNIS DELTA 1.2,Manual,37844,2nd,Petrol,DL12-CQ5860,8680,444000,0,Chhatarpur,Delhi
+Maruti,2017,Alto 800 VXI,Manual,37773,1st,Petrol,DL2C-AX4176,5494,281000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2017,City 1.5L I-VTEC V MT,Manual,28321,1st,Petrol,DL3C-CM6532,13714,701000,0,GIP Mall,Delhi
+Ford,2017,Ecosport AMBIENTE 1.5L PETROL,Manual,25973,1st,Petrol,HR29-AP2644,10655,545000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2020,Dzire VXI,Manual,55785,1st,Petrol,HR26-EH4741,10401,532000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Skoda,2018,Rapid STYLE 1.6 MPI AT,Automatic,84850,1st,Petrol,HR26-DS8594,13677,700000,0,Parsvnath City Mall,Delhi
+Tata,2019,NEXON XM DIESEL,Manual,68574,1st,Diesel,UP16-CK3440,13703,616000,0,KW Delhi 6,Delhi
+Tata,2019,Harrier XZ 2.0L,Manual,72524,1st,Diesel,HR26-DX3259,22069,1015000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Hyundai,2016,Creta SX PLUS 1.6 PETROL,Manual,82518,2nd,Petrol,HR26-CU2453,12688,649000,0,Parsvnath City Mall,Delhi
+Tata,2022,PUNCH CREATIVE 1.2 MT KAZIRANGA EDITION,Manual,14011,1st,Petrol,HR26-EU1955,14936,764000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Hyundai,2014,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,79864,1st,Petrol,HR20-AC4808,6940,312000,0,Parsvnath City Mall,Delhi
+Honda,2023,City 1.5L I-VTEC ZX CVT,Automatic,4695,1st,Petrol,DL10-CV6522,28018,1472000,0,Chhatarpur,Delhi
+Skoda,2018,Rapid STYLE 1.6 MPI AT,Automatic,48875,3rd,Petrol,HR26-DT1651,14448,739000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+KIA,2019,SELTOS GTX PLUS DCT 1.4 PETROL,Manual,24009,1st,Petrol,DL12-CR5219,28132,1478000,0,KW Delhi 6,Delhi
+Hyundai,2021,Creta SX 1.5 DIESEL,Manual,25879,1st,Diesel,HR51-CD3786,26929,1415000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Hyundai,2013,Verna FLUIDIC 1.6 VTVT SX OPT,Manual,27360,1st,Petrol,DL12-CE6663,12035,457000,0,KW Delhi 6,Delhi
+Maruti,2019,Swift ZXI PLUS AMT,Automatic,34142,2nd,Petrol,HR26-EA0671,12669,648000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2015,Ciaz VXI+,Manual,45312,1st,Petrol,DL5C-E7682,9521,487000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2021,City 1.5L I-VTEC ZX,Manual,5404,1st,Petrol,DL4C-BA7906,23812,1251000,0,Chhatarpur,Delhi
+Honda,2015,City 1.5L I-VTEC V MT,Manual,41122,1st,Petrol,DL4C-AW5486,10381,531000,0,Sector-18,Delhi
+Volkswagen,2011,Vento TRENDLINE 1.6,Manual,47819,1st,Petrol,DL6C-J9235,10309,219000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2017,Celerio VXI,Manual,67082,1st,Petrol,UP80-ED1631,7292,373000,0,GIP Mall,Delhi
+Hyundai,2016,Creta SX PLUS 1.6 PETROL,Manual,91001,2nd,Petrol,DL9C-AU4289,13040,667000,0,Chhatarpur,Delhi
+Nissan,2022,MAGNITE XL,Manual,28924,1st,Petrol,HR98-D9568,12414,635000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Honda,2018,Amaze 1.2L I-VTEC E,Manual,31478,1st,Petrol,HR26-DV4951,10147,519000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2017,Wagon R 1.0 VXI+,Manual,45125,2nd,CNG,DL12-CM3777,7566,387000,0,"Metro Walk, Rohini, New Delhi",Delhi
+KIA,2022,SONET HTK PLUS 1.0 IMT,Manual,32272,1st,Petrol,DL1C-AF3619,18718,983000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Tata,2020,ALTROZ XZ PETROL,Manual,25110,1st,Petrol,DL9C-AT8369,12473,638000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Nissan,2022,MAGNITE XV DUAL TONE,Manual,20512,1st,Petrol,DL14-CG2282,13431,687000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2015,Celerio VXI AMT,Automatic,23107,3rd,Petrol,DL2C-AU6200,6628,339000,0,KW Delhi 6,Delhi
+Maruti,2017,Baleno SIGMA PETROL 1.2,Manual,77425,2nd,CNG,DL7C-M8968,8915,455999,0,Chhatarpur,Delhi
+Maruti,2022,Baleno DELTA PETROL 1.2,Manual,25782,1st,Petrol,HR30-Z7487,13666,699000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Volkswagen,2014,Polo HIGHLINE1.2L,Manual,24455,1st,Petrol,DL10-CC3504,8920,401000,0,Sector-18,Delhi
+KIA,2020,SELTOS HTX PLUS 1.5 DIESEL,Manual,64742,1st,Diesel,UP14-EJ9608,20914,1099000,0,GIP Mall,Delhi
+Maruti,2016,Baleno SIGMA PETROL 1.2,Manual,38258,1st,Petrol,DL1C-R6375,8739,447000,0,Chhatarpur,Delhi
+Mahindra,2021,Thar LX PETROL HT 4WD AT,Automatic,38659,2nd,Petrol,HR98-G4354,25563,1343000,0,Parsvnath City Mall,Delhi
+Nissan,2022,MAGNITE XV PREMIUM,Manual,8239,1st,Petrol,DL3C-CX3081,14663,750000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2017,Elite i20 SPORTZ 1.2,Manual,43456,1st,Petrol,UP14-DF1426,10557,540000,0,GIP Mall,Delhi
+Hyundai,2021,Creta S 1.5 PETROL,Manual,20633,1st,Petrol,HR98-A5141,22251,1169000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2018,Wagon R 1.0 LXI CNG,Manual,93315,1st,CNG,DL12-CN4956,7683,393000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2016,Ciaz ZXI,Manual,26038,1st,Petrol,HR26-CY0334,11339,580000,0,Chhatarpur,Delhi
+Honda,2015,Brio E MT,Manual,41772,3rd,Petrol,DL3C-CC9058,5337,273000,0,GIP Mall,Delhi
+Maruti,2017,Baleno DELTA PETROL 1.2,Manual,89754,1st,Petrol,DL3C-CM1466,9013,461000,0,Chhatarpur,Delhi
+Honda,2015,City 1.5L I-VTEC SV,Manual,101611,3rd,Petrol,HR51-BG6808,10255,461000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2022,Swift ZXI PLUS,Manual,24626,1st,Petrol,DL3C-CW3817,14799,757000,0,Chhatarpur,Delhi
+Maruti,2019,Alto K10 VXI,Manual,49670,1st,Petrol,UP16-CH2301,6960,356000,0,KW Delhi 6,Delhi
+KIA,2022,SELTOS HTX PETROL 1.5,Manual,16721,1st,Petrol,DL3C-CW3549,27885,1465000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2018,Amaze 1.2L I-VTEC S OPT,Manual,50840,2nd,Petrol,UP32-JV2367,8485,434000,0,Sector-18,Delhi
+Tata,2022,NEXON XM SUNROOF PETROL,Manual,13536,1st,Petrol,DL9C-AY2657,15836,832000,0,Chhatarpur,Delhi
+Hyundai,2019,Creta SX 1.6 PETROL,Manual,20920,2nd,Petrol,DL10-CM7749,17759,933000,0,GIP Mall,Delhi
+Honda,2018,WR-V 1.2L I-VTEC S MT,Manual,17932,2nd,Petrol,DL9C-AP7582,11691,598000,0,GIP Mall,Delhi
+Hyundai,2015,Eon ERA +,Manual,86973,1st,Petrol,UP25-BK2496,4340,222000,0,KW Delhi 6,Delhi
+Maruti,2022,Alto VXI,Manual,11209,1st,Petrol,DL9C-AY2105,7722,395000,0,KW Delhi 6,Delhi
+Honda,2018,WR-V 1.2L I-VTEC VX MT,Manual,63232,1st,Petrol,DL10-CL1512,11613,594000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2018,Grand i10 ASTA 1.2 KAPPA VTVT,Manual,86970,2nd,CNG,HR06-AR8905,9345,478000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2017,Wagon R 1.0 LXI CNG,Manual,117691,1st,CNG,HR51-BP3545,7496,337000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2019,New Wagon-R VXI (O) 1.0,Manual,5438,1st,Petrol,DL1C-AB3004,9384,480000,0,KW Delhi 6,Delhi
+Nissan,2022,MAGNITE XE,Manual,26453,1st,Petrol,HR26-EY1174,11476,587000,0,Parsvnath City Mall,Delhi
+Renault,2019,Duster RXE PETROL,Manual,39254,1st,Petrol,DL10-CN0309,12766,653000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2022,Baleno ZETA PETROL 1.2,Manual,15650,1st,Petrol,DL9C-AX7029,15249,780000,0,KW Delhi 6,Delhi
+Maruti,2016,Ciaz VXI,Manual,123772,1st,Petrol,DL9C-AL8277,10410,468000,0,Sector-18,Delhi
+Hyundai,2017,i20 Active 1.2 S,Manual,57201,1st,Petrol,UP32-HZ2382,10811,553000,0,Sector-18,Delhi
+Maruti,2015,Swift LXI (O),Manual,87184,2nd,Petrol,DL12-CJ1175,6725,344000,0,Chhatarpur,Delhi
+KIA,2022,CARENS LUXURY PLUS 1.5 DIESEL AT 6 STR,Manual,23444,2nd,Diesel,HR98-J8270,30264,1590000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2014,Swift Dzire VXI,Manual,100878,1st,Petrol,DL2C-AU2637,6762,304000,0,Chhatarpur,Delhi
+Maruti,2021,Alto LXI,Manual,16001,1st,Petrol,HR72-F8445,7507,384000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2022,IGNIS DELTA 1.2,Manual,18015,1st,Petrol,HR10-AP7400,10968,561000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2023,Amaze 1.2L I-VTEC VX CVT,Automatic,8376,1st,Petrol,HR26-FA3635,16750,880000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2019,Harrier XZ 2.0L DARK EDITION,Manual,56690,2nd,Diesel,HR51-BY5004,24786,1140000,0,Parsvnath City Mall,Delhi
+Hyundai,2010,Santro Xing GLS,Manual,55306,1st,Petrol,DL10-CA5638,11461,129000,0,Sector-18,Delhi
+Tata,2019,Hexa Varicor 400 XM,Manual,45799,1st,Diesel,HR26-DZ4199,22677,1043000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2020,Celerio LXI (O),Manual,54485,1st,Petrol,HR26-EJ9588,7585,388000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2015,Elite i20 MAGNA 1.2,Manual,60958,1st,Petrol,DL8C-AK3603,8954,458000,0,Chhatarpur,Delhi
+KIA,2022,CARENS LUXURY PLUS 1.4 PETROL DCT 6 STR,Automatic,32364,1st,Petrol,DL3C-CV8409,30416,1598000,0,Chhatarpur,Delhi
+Hyundai,2021,NEW I20 MAGNA 1.2 MT,Manual,32834,1st,Petrol,DL5C-S3548,12512,640000,0,Sector-18,Delhi
+Renault,2019,TRIBER RXL MT,Manual,21595,1st,Petrol,DL3C-CS3277,9853,504000,0,Chhatarpur,Delhi
+Maruti,2022,Alto LXI O,Manual,9442,2nd,Petrol,UP16-DH4417,7410,379000,0,KW Delhi 6,Delhi
+Maruti,2017,Dzire VXI,Manual,33079,1st,Petrol,DL8C-AS2179,9736,498000,0,GIP Mall,Delhi
+Maruti,2013,Swift LXI,Manual,61671,1st,Petrol,HR26-BZ0716,9191,349000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2015,City 1.5L I-VTEC VX,Manual,76925,1st,Petrol,DL3C-CC8131,10420,533000,0,KW Delhi 6,Delhi
+Tata,2019,NEXON XMA DIESEL,Automatic,61857,1st,Diesel,UP16-CM0338,14704,661000,0,GIP Mall,Delhi
+Hyundai,2019,Elite i20 MAGNA PLUS 1.4 CRDI,Manual,60699,1st,Diesel,UP14-DZ3287,14236,640000,0,Sector-18,Delhi
+Volkswagen,2020,Vento HIGHLINE PLUS 1.0L TSI,Manual,43444,1st,Petrol,HR26-EN5595,19358,1017000,0,Parsvnath City Mall,Delhi
+Hyundai,2018,Creta SX PLUS AT 1.6 PETROL,Automatic,67539,1st,Petrol,HR26-DN8224,16921,889000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Datsun,2020,Redi Go T,Manual,11300,1st,Petrol,HR26-EM1056,6471,331000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2015,Elite i20 ASTA 1.2,Manual,71875,1st,Petrol,HR26-CR9693,9443,483000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2020,ALTROZ XT PETROL,Manual,21656,1st,Petrol,DL7C-R9021,12278,628000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2014,i20 SPORTZ 1.2,Manual,33000,1st,Petrol,DL7C-P6301,8653,389000,0,Chhatarpur,Delhi
+Hyundai,2017,Verna 1.6 VTVT SX (O) AT,Manual,101051,1st,Petrol,DL5C-P2052,17373,781000,0,KW Delhi 6,Delhi
+Nissan,2022,MAGNITE XV TURBO,Manual,12963,1st,Petrol,DL3C-CV7558,14506,742000,0,Chhatarpur,Delhi
+Maruti,2011,Swift LXI,Manual,28716,1st,Petrol,DL13-CA1451,9132,194000,0,Sector-18,Delhi
+Maruti,2020,Baleno DELTA PETROL 1.2,Manual,25641,2nd,Petrol,HR49-H0201,10889,557000,0,Parsvnath City Mall,Delhi
+Maruti,2019,New Wagon-R VXI 1.2,Manual,18748,1st,Petrol,HR51-BV2869,9607,491000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2018,TIGOR XM PETROL,Manual,39280,2nd,Petrol,DL8C-AT6595,8641,442000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2020,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,Automatic,36645,1st,Petrol,DL1C-AC3751,12004,614000,0,KW Delhi 6,Delhi
+Maruti,2016,Celerio ZXI AMT,Automatic,19572,1st,Petrol,DL3C-CE2855,8113,415000,0,Sector-18,Delhi
+Maruti,2021,Swift VXI AMT,Manual,11486,1st,Petrol,DL9C-AW1995,12805,655000,0,Sector-18,Delhi
+Tata,2022,NEXON XM PLUS SUNROOF PETROL,Manual,22251,1st,Petrol,HR50-J2703,15503,793000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Renault,2021,TRIBER RXL MT,Manual,42964,1st,Petrol,DL3C-CV2343,10010,512000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Toyota,2020,YARIS G MT,Manual,37411,1st,Petrol,UP32-LR3708,16407,861999,0,Sector-18,Delhi
+Renault,2014,Duster RXL PETROL,Manual,54798,2nd,Petrol,HR26-CL5555,8876,399000,0,Parsvnath City Mall,Delhi
+Hyundai,2013,Verna FLUIDIC 1.6 VTVT SX OPT,Manual,91163,1st,Petrol,DL3C-BZ6929,10876,413000,0,Sector-18,Delhi
+Maruti,2023,New Wagon-R LXI CNG 1.0,Manual,25432,1st,CNG,DL8C-BG2967,12238,626000,0,Sector-18,Delhi
+Tata,2022,Safari XZA PLUS DARK EDITION,Automatic,31676,1st,Diesel,HR26-EV3060,39343,2067000,0,Parsvnath City Mall,Delhi
+Maruti,2017,Alto K10 VXI,Manual,65635,2nd,Petrol,DL8C-AR4021,6080,311000,0,Sector-18,Delhi
+Honda,2021,WR-V 1.2L I-VTEC SV MT,Manual,8083,1st,Petrol,DL11-CC3835,15874,834000,0,GIP Mall,Delhi
+Hyundai,2013,Santro Xing GL PLUS,Manual,32842,1st,Petrol,DL3C-BZ5374,5957,225999,0,"Metro Walk, Rohini, New Delhi",Delhi
+Mahindra,2019,XUV300 W8 (O) 1.2 PETROL,Manual,58737,1st,Petrol,HR13-P4949,14291,731000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2013,Wagon R 1.0 LXI,Manual,46814,1st,Petrol,HR08-R1786,5662,215000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Jeep,2019,Compass LONGITUDE (O) 2.0 DIESEL,Manual,87927,1st,Diesel,DL10-CM8549,23786,1094000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2016,Ciaz VXI (O),Manual,79851,2nd,Petrol,DL8C-AC3480,9071,463999,0,KW Delhi 6,Delhi
+Renault,2020,Kwid CLIMBER 1.0 AMT (O),Automatic,32626,1st,Petrol,DL9C-AT1399,8583,438999,0,Chhatarpur,Delhi
+Renault,2017,Duster RXS CVT,Automatic,44242,1st,Petrol,HR26-DJ0165,12336,631000,0,Parsvnath City Mall,Delhi
+Hyundai,2021,VENUE SX 1.0 TURBO IMT,Manual,50408,1st,Petrol,DL7C-S6582,16769,881000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2017,Jazz 1.2L I-VTEC V AT,Automatic,72553,3rd,Petrol,HR51-BQ9889,9286,475000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Hyundai,2016,Creta SX PLUS 1.6 PETROL,Manual,122276,1st,Petrol,UP16-BE9271,14879,669000,0,Sector-18,Delhi
+Tata,2021,PUNCH CREATIVE AMT 1.2 RTN DUAL TONE,Manual,14582,1st,Petrol,HR98-C5193,15503,793000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2015,Baleno DELTA PETROL 1.2,Manual,68791,1st,Petrol,DL1C-U4578,7918,405000,0,Sector-18,Delhi
+Honda,2020,City 1.5L I-VTEC VX,Manual,35169,1st,Petrol,DL10-CN7932,17930,942000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2018,Dzire ZXI AMT,Automatic,50746,1st,Petrol,DL11-CB9797,13079,669000,0,Sector-18,Delhi
+Maruti,2017,Ciaz SIGMA 1.4 MT PETROL,Manual,43925,2nd,Petrol,DL8C-AS2457,10792,552000,0,Sector-18,Delhi
+Tata,2019,Harrier XZ DARK EDITION,Manual,56111,2nd,Diesel,HR26-ED3450,26613,1224000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2019,New Wagon-R VXI 1.2,Manual,9821,2nd,Petrol,DL8C-AY3844,9540,488000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2020,Baleno ZETA PETROL 1.2,Manual,44402,1st,Petrol,UP65-DU9599,12414,635000,0,KW Delhi 6,Delhi
+Hyundai,2023,NEW I20 ASTA (O) 1.2 MT,Manual,6800,1st,Petrol,HR98-H3087,17016,894000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Hyundai,2022,VENUE S+ 1.2,Manual,9796,1st,Petrol,HR13-S9116,16636,874000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2017,Swift VXI,Manual,39133,2nd,Petrol,HR26-DB8458,8702,445000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2015,Amaze 1.2L I-VTEC SX,Manual,65475,1st,Petrol,HR51-BD8612,7327,375000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,40186,1st,Petrol,UP25-CL9236,8407,430000,0,GIP Mall,Delhi
+Ford,2020,Ecosport TITANIUM 1.5L DIESEL,Manual,62541,1st,Diesel,DL11-CC3305,15722,826000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2016,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,48521,1st,Petrol,DL7C-T9899,7742,396000,0,KW Delhi 6,Delhi
+Maruti,2015,Ciaz VXI+,Manual,41361,1st,Petrol,DL8C-AM6452,9795,501000,0,KW Delhi 6,Delhi
+Hyundai,2016,Creta BASE 1.6 PETROL,Manual,45368,1st,Petrol,UP14-CY5421,13353,683000,0,Sector-18,Delhi
+MG,2019,HECTOR SHARP 2.0 DIESEL,Manual,33306,1st,Diesel,DL8C-AZ1668,28874,1328000,0,Sector-18,Delhi
+Tata,2021,Tiago XT LIMITED EDITION PETROL,Manual,28282,1st,Petrol,UP32-MC7345,10987,562000,0,KW Delhi 6,Delhi
+Hyundai,2019,Elite i20 MAGNA PLUS 1.4 CRDI,Manual,62874,1st,Diesel,DL4C-AZ1779,14058,632000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Tata,2022,NEXON XZ PLUS PETROL,Manual,30719,1st,Petrol,HR98-E5215,16655,875000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2018,IGNIS ALPHA 1.2,Manual,31802,1st,Petrol,HR26-DV4363,10850,555000,0,Parsvnath City Mall,Delhi
+Maruti,2017,Baleno DELTA PETROL 1.2,Manual,65897,1st,Petrol,DL5C-N6683,8915,455999,0,Sector-18,Delhi
+Maruti,2023,BREZZA ZXI SMART HYBRID,Manual,6785,1st,Petrol,UP16-EC5065,22974,1207000,0,Sector-18,Delhi
+Maruti,2018,Baleno DELTA PETROL 1.2,Manual,57785,1st,Petrol,HR26-DR7951,9912,507000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Ford,2018,Ecosport TITANIUM + 1.5L DIESEL,Manual,84542,1st,Diesel,DL11-CB1640,15932,605000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2022,Alto VXI,Manual,34574,1st,Petrol,HR26-EU9228,7664,392000,0,"Metro Walk, Rohini, New Delhi",Delhi
+KIA,2021,SELTOS HTX 1.5 PETROL,Manual,9184,1st,Petrol,HR98-A4709,23716,1246000,0,Parsvnath City Mall,Delhi
+Skoda,2021,Rapid MONTE CARLO TSI,Manual,43461,2nd,Petrol,DL10-CP7214,17036,894999,0,Chhatarpur,Delhi
+Honda,2018,WR-V 1.2L I-VTEC VX MT,Manual,41090,1st,Petrol,DL10-CL3310,12981,664000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2014,Wagon R 1.0 LXI,Manual,8964,1st,Petrol,DL2C-AU0810,6139,276000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2017,Creta E PLUS 1.6 PETROL,Manual,60310,1st,Petrol,HR26-DF3668,14193,726000,0,Parsvnath City Mall,Delhi
+Nissan,2021,MAGNITE XV PREMIUM TURBO CVT,Automatic,20810,1st,Petrol,DL3C-CT7587,15380,808000,0,KW Delhi 6,Delhi
+Honda,2018,Amaze 1.2L I-VTEC S,Manual,75552,1st,Petrol,UP16-BX5702,10127,518000,0,Sector-18,Delhi
+Maruti,2022,Alto LXI O,Manual,4848,1st,Petrol,DL5C-T7368,7996,409000,0,KW Delhi 6,Delhi
+Honda,2017,CRV 2.0L I-VTEC 2WD AT,Automatic,58208,1st,Petrol,DL1C-X8263,24173,1270000,0,Sector-18,Delhi
+Hyundai,2011,i10 MAGNA 1.2,Manual,57449,2nd,Petrol,DL8C-T8147,8756,186000,0,KW Delhi 6,Delhi
+Hyundai,2015,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,49462,2nd,Petrol,DL12-CG5362,6764,346000,0,KW Delhi 6,Delhi
+Tata,2019,NEXON KRAZ MT DIESEL,Manual,63271,1st,Diesel,UP14-EH5394,14704,661000,0,KW Delhi 6,Delhi
+Renault,2019,Duster RXS OPT CVT,Automatic,25864,1st,Petrol,DL12-CR5097,15269,781000,0,Sector-18,Delhi
+Hyundai,2011,i20 MAGNA (O) 1.2,Manual,43674,1st,Petrol,DL10-CA9392,11768,250000,0,Chhatarpur,Delhi
+Honda,2019,Amaze 1.2L I-VTEC S,Manual,37264,2nd,Petrol,DL10-CN5261,11222,574000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2021,Creta SX (O) 1.5 DIESEL,Manual,42584,1st,Diesel,HR51-CD0320,29427,1546000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2019,NEXON XZA PLUS DIESEL,Automatic,49634,1st,Diesel,UP14-ED1331,16706,751000,0,GIP Mall,Delhi
+Renault,2021,Kwid CLIMBER 1.0 AMT (O),Automatic,27986,1st,Petrol,HR51-CD3088,8739,447000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Renault,2020,Kwid CLIMBER 1.0 AMT (O),Automatic,45704,2nd,Petrol,UP16-CP4006,8622,441000,0,KW Delhi 6,Delhi
+Tata,2022,NEXON XZ PETROL,Manual,27385,1st,Petrol,DL1C-AF5290,16541,869000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2015,City 1.5L I-VTEC V MT,Manual,83104,2nd,Petrol,HR26-CR5032,10166,520000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2016,Baleno DELTA PETROL 1.2,Manual,86478,1st,Petrol,HR26-DA8686,8465,433000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2023,Swift VXI,Manual,10050,2nd,Petrol,HR72-H4330,14272,730000,0,Parsvnath City Mall,Delhi
+Maruti,2023,Alto K10 LXI,Manual,14943,1st,Petrol,DL14-CH1673,9404,480999,0,KW Delhi 6,Delhi
+Nissan,2022,MAGNITE XE,Manual,13843,1st,Petrol,HR26-ET1967,11711,599000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2022,Baleno DELTA PETROL 1.2,Manual,15546,1st,Petrol,HR29-AZ9360,13920,712000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2022,Baleno ALPHA 1.2 AGS,Automatic,3102,1st,Petrol,DL8C-BD6277,17721,931000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Nissan,2022,MAGNITE XV PREMIUM TURBO CVT,Automatic,42637,1st,Petrol,UP16-DE8478,16236,852999,0,KW Delhi 6,Delhi
+Volkswagen,2013,Polo COMFORTLINE 1.2L PETROL,Manual,70274,1st,Petrol,DL3C-BW1697,8084,307000,0,Sector-18,Delhi
+Hyundai,2017,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,Manual,99987,1st,CNG,DL7C-M8561,8133,416000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2017,WR-V 1.2L I-VTEC VX MT,Manual,26586,1st,Petrol,DL3C-CM8288,12825,656000,0,Sector-18,Delhi
+Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,73253,1st,CNG,DL4C-AX8347,8172,418000,0,Sector-18,Delhi
+Maruti,2017,Baleno DELTA PETROL 1.2,Manual,75735,1st,Petrol,UP80-EC7276,8876,454000,0,KW Delhi 6,Delhi
+Honda,2016,City 1.5L I-VTEC VX,Manual,56424,2nd,Petrol,HR26-CV9810,12532,641000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2011,i20 SPORTZ 1.2,Manual,99510,1st,Petrol,DL8C-T9313,10215,217000,0,Chhatarpur,Delhi
+Ford,2016,Ecosport TITANIUM 1.5L PETROL,Manual,70506,1st,Petrol,DL12-CJ5165,10831,554000,0,Chhatarpur,Delhi
+Maruti,2020,Baleno DELTA PETROL 1.2,Manual,31279,1st,Petrol,HR26-EJ7097,11789,603000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2023,New Wagon-R LXI CNG 1.0,Manual,12684,1st,CNG,DL4C-BC2801,12297,629000,0,Sector-18,Delhi
+Mahindra,2021,XUV300 W8 (O) 1.5 DIESEL,Manual,18252,2nd,Diesel,UP14-EU6693,19053,1001000,0,KW Delhi 6,Delhi
+Maruti,2020,New Wagon-R LXI 1.0,Manual,17049,1st,Petrol,HR30-W0801,9130,467000,0,Parsvnath City Mall,Delhi
+Honda,2019,BR-V 1.5L I-VTEC S,Manual,63922,1st,Petrol,DL10-CL8833,14233,728000,0,Sector-18,Delhi
+Ford,2019,Ecosport TITANIUM 1.5L DIESEL,Manual,71456,1st,Diesel,HR51-BW5106,16105,724000,0,Parsvnath City Mall,Delhi
+Renault,2021,TRIBER RXL MT,Manual,26568,1st,Petrol,DL12-CT7963,10766,551000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Renault,2018,Kwid RXT 1.0,Manual,88670,1st,Petrol,HR26-DS1710,6178,316000,0,Parsvnath City Mall,Delhi
+Honda,2017,WR-V 1.2L I-VTEC VX MT,Manual,26623,1st,Petrol,DL3C-CM7351,12825,656000,0,GIP Mall,Delhi
+Hyundai,2021,VENUE SX 1.0 TURBO IMT,Manual,43632,1st,Petrol,DL7C-S1911,16598,872000,0,Chhatarpur,Delhi
+Maruti,2016,Celerio ZXI AMT (O),Automatic,56372,1st,CNG,DL1C-V5294,9298,418000,0,Sector-18,Delhi
+Maruti,2017,Swift LXI (O),Manual,38009,1st,Petrol,DL5C-N9890,8250,422000,0,GIP Mall,Delhi
+Hyundai,2014,Grand i10 ASTA AT 1.2 KAPPA VTVT,Automatic,19375,1st,Petrol,DL10-CS3069,9432,424000,0,KW Delhi 6,Delhi
+Hyundai,2019,Creta SX AT 1.6 DIESEL,Automatic,67168,1st,Diesel,HR26-DX6080,24047,1106000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2015,Swift LXI (O),Manual,77779,1st,Petrol,DL2C-AT8897,7312,374000,0,GIP Mall,Delhi
+Maruti,2021,Baleno DELTA PETROL 1.2,Manual,6145,2nd,Petrol,DL9C-AW9669,12512,640000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2019,Amaze 1.2L I-VTEC S,Manual,24871,1st,Petrol,HR36-AG6670,11808,604000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2019,Tiago XT DIESEL,Manual,74448,1st,Diesel,UP16-CD8352,9792,440000,0,GIP Mall,Delhi
+Hyundai,2020,AURA SX+ 1.0 TURBO GDI MT,Manual,63013,1st,Petrol,UP16-CR3281,13607,696000,0,GIP Mall,Delhi
+KIA,2020,SONET HTK PLUS 1.5,Manual,64930,1st,Diesel,HR26-EM6150,16084,844999,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Honda,2013,City 1.5L I-VTEC S MT,Manual,26737,1st,Petrol,DL13-CC2711,10692,405999,0,Chhatarpur,Delhi
+KIA,2021,SONET HTK PLUS 1.0 DCT,Automatic,27310,1st,Petrol,DL1C-AH5396,18939,994999,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2015,Elite i20 MAGNA 1.2,Manual,38116,1st,Petrol,DL10-CS6590,8524,436000,0,Chhatarpur,Delhi
+Maruti,2018,Celerio ZXI,Manual,34214,1st,Petrol,HR26-DN6763,8348,426999,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Tata,2021,Tiago XT PETROL,Manual,20843,1st,Petrol,HR98-A5831,10557,540000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2018,Amaze 1.2L I-VTEC VX,Manual,26314,1st,Petrol,HR26-DR9168,11169,571000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2022,Celerio LXI,Manual,10035,1st,Petrol,DL9C-AY6651,9736,498000,0,Sector-18,Delhi
+Hyundai,2019,NEW SANTRO SPORTZ MT,Manual,61630,2nd,Petrol,DL10-CN1277,8035,411000,0,GIP Mall,Delhi
+Maruti,2015,Ciaz VXI+,Manual,16998,1st,Petrol,HR26-CQ0470,10627,544000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2022,Baleno ALPHA 1.2 AGS,Automatic,26539,1st,Petrol,UP37-S6794,16198,851000,0,Sector-18,Delhi
+KIA,2022,SONET HTX 1.0 IMT,Manual,36545,1st,Petrol,DL4C-BB3465,21033,1105000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Hyundai,2018,Creta SX PLUS 1.6 PETROL,Manual,48729,2nd,Petrol,DL12-CN0588,15627,821000,0,GIP Mall,Delhi
+Hyundai,2021,NEW SANTRO SPORTZ AMT,Automatic,21850,1st,Petrol,HR98-C0447,10596,542000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Renault,2021,Kwid RXL 1.0 AMT,Automatic,27646,1st,Petrol,DL12-CU0235,8524,436000,0,Sector-18,Delhi
+Renault,2021,Kwid RXL 1.0,Manual,10879,1st,Petrol,DL10-CP8473,8006,409000,0,Sector-18,Delhi
+Hyundai,2012,i20 MAGNA (O) 1.2,Manual,32905,2nd,Petrol,DL2C-AR1695,7971,240000,0,Chhatarpur,Delhi
+Maruti,2015,Ciaz VXI+,Manual,56400,1st,Petrol,DL9C-AK6344,9873,505000,0,Chhatarpur,Delhi
+Maruti,2014,Ertiga VXI,Manual,56777,1st,Petrol,DL9C-AL0360,11278,507000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2019,NEW SANTRO SPORTZ CNG,Manual,37323,1st,CNG,DL8C-AX9418,9814,501999,0,GIP Mall,Delhi
+Maruti,2021,Baleno SIGMA PETROL 1.2,Manual,20654,1st,Petrol,DL3C-CU2317,11789,603000,0,GIP Mall,Delhi
+Tata,2020,NEXON XZA PLUS SUNROOF PETROL,Automatic,61402,1st,Petrol,HR26-EJ9690,15532,816000,0,"Metro Walk, Rohini, New Delhi",Delhi
+KIA,2022,SONET HTX 1.0 IMT,Manual,29811,1st,Petrol,HR36-AM7376,21509,1130000,0,Parsvnath City Mall,Delhi
+Renault,2022,Kwid RXT 1.0 AMT,Automatic,12136,1st,Petrol,UP16-DK3212,9501,486000,0,Sector-18,Delhi
+Hyundai,2018,Verna 1.6 VTVT SX (O) AT,Automatic,53602,2nd,Petrol,HR26-DS4398,15570,818000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2017,Baleno DELTA PETROL 1.2,Manual,68670,1st,Petrol,DL6C-Q4910,9286,475000,0,KW Delhi 6,Delhi
+Maruti,2018,IGNIS DELTA 1.2 AMT,Automatic,100481,1st,CNG,UP16-BU5759,10499,472000,0,GIP Mall,Delhi
+Mahindra,2019,XUV300 W8 1.2 PETROL,Manual,12219,1st,Petrol,DL7C-R0623,16845,885000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Nissan,2015,Micra XV CVT,Automatic,54569,1st,Petrol,DL2C-AT5319,7058,361000,0,Sector-18,Delhi
+Hyundai,2017,Creta E 1.6 PETROL,Manual,42305,2nd,Petrol,HR26-DE1727,13138,672000,0,Parsvnath City Mall,Delhi
+Tata,2021,Harrier XZA PLUS 2.0L KAZIRANGA,Automatic,21995,1st,Diesel,DL9C-AW6675,33405,1755000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2017,City 1.5L I-VTEC VX,Manual,99063,1st,Petrol,DL3C-CL6799,13529,692000,0,GIP Mall,Delhi
+Maruti,2020,Baleno ALPHA PETROL 1.2,Manual,65829,2nd,Petrol,DL2C-BB4257,11984,613000,0,Sector-18,Delhi
+Toyota,2021,URBAN CRUISER MID GRADE AT,Automatic,29116,1st,Petrol,HR70-F4947,17169,902000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2021,Baleno DELTA PETROL 1.2,Manual,18460,2nd,Petrol,DL8C-BB7006,11808,604000,0,GIP Mall,Delhi
+Tata,2018,NEXON XZA PLUS PETROL DUAL TONE,Automatic,85549,1st,Petrol,DL1C-AA4204,13529,692000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2019,NEW SANTRO SPORTZ MT,Manual,62309,1st,Petrol,DL9C-AS4301,8622,441000,0,KW Delhi 6,Delhi
+KIA,2020,SONET HTK PLUS 1.5,Manual,67883,1st,Diesel,UP14-EN3312,16902,888000,0,KW Delhi 6,Delhi
+Maruti,2016,Ciaz VXI,Manual,60410,1st,Petrol,DL9C-AL5407,10029,513000,0,KW Delhi 6,Delhi
+Renault,2023,TRIBER RXZ,Manual,14050,1st,Petrol,HR26-FA6632,14936,764000,0,Parsvnath City Mall,Delhi
+Maruti,2016,Ciaz ZXI+ RS,Manual,50234,2nd,Petrol,DL4C-AU6188,10518,538000,0,Chhatarpur,Delhi
+Maruti,2015,Ciaz VXI+,Manual,109535,1st,Petrol,DL14-CB2149,10499,472000,0,Chhatarpur,Delhi
+Maruti,2020,Alto VXI,Manual,27437,1st,Petrol,HR26-EM9485,7097,363000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2014,City 1.5L I-VTEC V MT,Manual,43727,1st,Petrol,DL3C-CC4187,11055,497000,0,Chhatarpur,Delhi
+Nissan,2021,MAGNITE XV PREMIUM DUAL TONE,Manual,42886,1st,Petrol,UP16-CV6723,14291,731000,0,KW Delhi 6,Delhi
+Toyota,2022,Glanza V AMT,Automatic,6555,1st,Petrol,HR98-E6780,18254,959000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2020,Amaze 1.2L I-VTEC VX,Manual,38207,1st,Petrol,HR36-AJ3024,13196,675000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2017,City 1.5L I-VTEC ZX CVT,Manual,85638,1st,Petrol,HR26-DD2823,15210,778000,0,Parsvnath City Mall,Delhi
+Hyundai,2019,Creta SX 1.6 DIESEL,Manual,60004,1st,Diesel,DL7C-Q8896,21090,969999,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2020,VENUE SX 1.0 (O) TURBO IMT,Manual,51164,1st,Petrol,UP16-CQ9119,16255,853999,0,KW Delhi 6,Delhi
+Hyundai,2015,Creta SX PLUS 1.6 PETROL,Manual,55897,1st,Petrol,DL3C-CK2212,13548,693000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2017,Ciaz ALPHA 1.4 PETROL,Manual,93015,1st,Petrol,DL9C-AN2605,11769,602000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2022,Creta SX (O) AT KINGHT 1.5 DIESEL,Automatic,35513,1st,Diesel,HR26-EW4517,32339,1698999,0,Parsvnath City Mall,Delhi
+Maruti,2014,Alto K10 VXI,Manual,37866,2nd,Petrol,DL5C-K7457,4920,221000,0,GIP Mall,Delhi
+Honda,2017,Amaze 1.2L I-VTEC S,Manual,65833,1st,Petrol,DL4C-AX3152,8798,450000,0,Sector-18,Delhi
+Ford,2018,Ecosport TITANIUM 1.5L PETROL,Manual,99291,1st,Petrol,HR29-AQ4362,11750,601000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Honda,2011,City 1.5L I-VTEC S MT,Manual,88490,1st,Petrol,DL4C-NC6086,12333,262000,0,GIP Mall,Delhi
+Ford,2020,Ecosport TITANIUM 1.5L THUNDER EDTION DIESEL,Manual,71807,2nd,Diesel,HR29-AV7346,15760,827999,0,Parsvnath City Mall,Delhi
+Maruti,2019,Baleno ALPHA PETROL 1.2,Manual,25501,2nd,Petrol,HR26-EF3128,11789,603000,0,Parsvnath City Mall,Delhi
+Honda,2017,Amaze 1.2L I-VTEC S,Manual,95120,1st,CNG,DL10-CJ2072,8876,454000,0,GIP Mall,Delhi
+Honda,2017,BR-V 1.5L I-VTEC S,Manual,21978,1st,Petrol,DL14-CD6617,14448,739000,0,Sector-18,Delhi
+Hyundai,2020,VENUE SX 1.0 TURBO,Manual,24972,1st,Petrol,DL5C-R4976,16636,874000,0,Sector-18,Delhi
+Maruti,2011,Alto K10 LXI,Manual,14213,1st,Petrol,UP16-AE8365,7296,155000,0,KW Delhi 6,Delhi
+Hyundai,2012,i20 ASTA 1.2,Manual,39226,1st,Petrol,DL8C-X5742,10662,321000,0,Sector-18,Delhi
+Maruti,2018,Baleno DELTA PETROL 1.2,Manual,26445,1st,Petrol,HR51-BT3598,10147,519000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2022,NEW I20 N LINE N6 1.0 TURBO GDI IMT,Manual,10616,1st,Petrol,UP14-FB0380,18368,965000,0,Sector-18,Delhi
+Maruti,2020,Baleno DELTA PETROL 1.2,Manual,27841,1st,Petrol,DL5C-R4991,11847,606000,0,GIP Mall,Delhi
+Tata,2022,TIGOR XZ PLUS CNG,Manual,37622,1st,CNG,HR26-ET9309,13724,702000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2022,New Wagon-R LXI CNG 1.0,Manual,6799,1st,CNG,DL3C-CX2648,12055,617000,0,Sector-18,Delhi
+Hyundai,2018,Creta E PLUS 1.6 PETROL,Manual,103702,2nd,Petrol,UP14-DX8100,16083,723000,0,KW Delhi 6,Delhi
+Maruti,2023,New Wagon-R LXI 1.0,Manual,2330,1st,Petrol,HR30-AB2530,10811,553000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Hyundai,2020,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,Automatic,5192,1st,Petrol,DL12-CS7230,13626,697000,0,Sector-18,Delhi
+Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,26617,1st,Petrol,DL7C-M9405,8504,434999,0,Sector-18,Delhi
+Maruti,2019,Celerio ZXI AMT,Automatic,74146,1st,Petrol,DL3C-CR6627,8680,444000,0,GIP Mall,Delhi
+Mahindra,2019,XUV500 W5,Manual,45630,1st,Diesel,DL8C-AX3991,21982,1011000,0,Chhatarpur,Delhi
+Maruti,2016,Swift VXI ABS,Manual,40875,1st,Petrol,HR30-Q9902,9267,474000,0,Parsvnath City Mall,Delhi
+Mahindra,2019,XUV500 W11 (O) AT,Automatic,79978,1st,Diesel,DL8C-AY9653,23069,1061000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Honda,2019,Amaze 1.2L I-VTEC S,Manual,39444,1st,Petrol,DL10-CM3603,11476,587000,0,GIP Mall,Delhi
+Ford,2019,Ecosport TITANIUM + 1.5L PETROL AT,Automatic,58384,2nd,Petrol,HR26-DW9828,15608,819999,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Jeep,2019,Compass SPORT PLUS 1.4 PETROL,Manual,59431,1st,Petrol,HR26-EA1619,22555,1185000,0,Parsvnath City Mall,Delhi
+Maruti,2019,Baleno DELTA PETROL 1.2,Manual,33410,1st,Petrol,HR26-DW5122,11026,564000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2016,Ciaz ZXI,Manual,107298,1st,Petrol,DL3C-CK8131,11078,498000,0,Sector-18,Delhi
+Tata,2021,NEXON XZ PLUS PETROL SUNROOF,Manual,9875,1st,Petrol,HR34-L4209,17264,907000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Honda,2011,City 1.5L I-VTEC S MT,Manual,25422,1st,Petrol,DL9C-U2850,13557,288000,0,Parsvnath City Mall,Delhi
+Maruti,2018,Ciaz SIGMA 1.5 SHVS MT PETROL,Manual,42990,1st,Petrol,DL3C-CQ5445,12727,651000,0,Sector-18,Delhi
+Honda,2015,Jazz 1.2L I-VTEC E,Manual,67759,2nd,Petrol,DL3C-CK7625,7703,394000,0,Sector-18,Delhi
+Maruti,2022,BREZZA ZXI SMART HYBRID DUAL TONE,Manual,28284,1st,Petrol,HR30-Z6223,22327,1173000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Honda,2011,City 1.5L I-VTEC S MT,Manual,44829,1st,Petrol,HR26-BM9656,13322,283000,0,Parsvnath City Mall,Delhi
+Honda,2019,Jazz 1.5L I-DTEC VX,Manual,27362,1st,Diesel,UP14-EA3668,14014,630000,0,KW Delhi 6,Delhi
+Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,Automatic,23504,1st,Petrol,HR26-EC8693,18025,947000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2015,Swift Dzire LXI (O),Manual,27571,1st,Petrol,DL3C-CB4036,7859,401999,0,KW Delhi 6,Delhi
+Volkswagen,2017,Vento HIGHLINE PLUS 1.2 AT 16 ALLOY,Automatic,95879,2nd,Petrol,DL1C-AF6948,12307,629000,0,Sector-18,Delhi
+Hyundai,2011,i10 SPORTZ 1.2,Manual,48311,2nd,Petrol,UP14-BN7610,8238,175000,0,GIP Mall,Delhi
+Hyundai,2016,Creta S 1.6 PETROL,Manual,109310,1st,Petrol,DL7C-T8701,15171,682000,0,Sector-18,Delhi
+Tata,2023,Tiago XM CNG,Manual,17340,1st,CNG,DL9C-BB1230,12238,626000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2018,Amaze 1.2L I-VTEC S,Manual,58804,1st,Petrol,DL11-CB3996,10459,535000,0,Sector-18,Delhi
+Hyundai,2011,i10 MAGNA 1.2,Manual,75117,1st,Petrol,DL8C-T7440,8191,174000,0,KW Delhi 6,Delhi
+Honda,2019,Amaze 1.2L I-VTEC S,Manual,34940,1st,Petrol,UP16-CH4506,11881,608000,0,KW Delhi 6,Delhi
+Maruti,2016,Baleno ZETA PETROL 1.2,Manual,47984,2nd,Petrol,DL10-CT9136,9228,472000,0,GIP Mall,Delhi
+Tata,2019,NEXON XZA PLUS PETROL,Automatic,30309,2nd,Petrol,HR26-DZ5088,14487,741000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Renault,2021,Kiger RXZ TURBO MT,Manual,46266,2nd,Petrol,DL7C-V1648,14408,737000,0,Chhatarpur,Delhi
+Tata,2023,NEXON XM PETROL,Manual,13397,1st,Petrol,HR51-CK4941,15692,824000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Volkswagen,2015,Vento HIGHLINE 1.6 MPI,Manual,98990,1st,Petrol,UP16-BD2357,10244,524000,0,GIP Mall,Delhi
+Maruti,2019,Baleno DELTA PETROL 1.2,Manual,29389,1st,Petrol,DL7C-Q9285,11867,607000,0,GIP Mall,Delhi
+Honda,2015,Jazz 1.2L I-VTEC V AT,Automatic,40196,1st,Petrol,DL14-CC1688,8993,459999,0,Sector-18,Delhi
+Renault,2019,Duster 110 PS RXS MT DIESEL,Manual,40838,1st,Diesel,UP16-CN4535,17217,774000,0,Sector-18,Delhi
+KIA,2020,CARNIVAL PREMIUM 2.2 7 STR,Automatic,66902,1st,Diesel,UP80-FU9596,36475,1916000,0,Sector-18,Delhi
+Hyundai,2016,Creta S 1.6 PETROL,Manual,77095,1st,Petrol,HR26-CV3110,13685,700000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2023,New Wagon-R LXI 1.0,Manual,2440,1st,Petrol,DL9C-BB7369,10596,542000,0,GIP Mall,Delhi
+Maruti,2016,Wagon R 1.0 VXI,Manual,121389,1st,Petrol,HR26-CZ4202,6896,310000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Ford,2018,Ecosport TREND + 1.5L PETROL AT,Automatic,59781,1st,Petrol,HR26-DT1720,13705,701000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2015,Baleno DELTA PETROL 1.2,Manual,69216,1st,Petrol,DL12-CJ2428,8758,448000,0,Chhatarpur,Delhi
+Maruti,2011,Alto K10 VXI,Manual,100924,2nd,Petrol,DL5C-H9029,7061,150000,0,Sector-18,Delhi
+Maruti,2017,Ciaz ZETA 1.4 AT PETROL,Automatic,23202,1st,Petrol,UP16-BS0992,14819,758000,0,Sector-18,Delhi
+Maruti,2012,Swift LXI,Manual,41942,1st,Petrol,HR26-BQ9431,9167,276000,0,Parsvnath City Mall,Delhi
+Hyundai,2018,Creta SX 1.6 PETROL,Manual,30720,1st,Petrol,DL1C-AA4200,19129,1005000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Renault,2022,TRIBER RXL MT,Manual,36693,2nd,Petrol,UP14-FC5723,12747,652000,0,Sector-18,Delhi
+Renault,2021,Kiger RXZ AMT,Automatic,30195,1st,Petrol,HR51-CE0327,14545,744000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Honda,2022,Amaze 1.2L I-VTEC VX,Manual,11935,1st,Petrol,UP16-DD3940,15779,828999,0,Sector-18,Delhi
+Maruti,2020,Baleno ALPHA CVT PETROL 1.2,Automatic,27579,2nd,Petrol,DL9C-AT0210,14428,738000,0,Sector-18,Delhi
+Maruti,2012,Swift VXI,Manual,33978,1st,Petrol,DL13-CA5082,9267,279000,0,KW Delhi 6,Delhi
+Tata,2019,Harrier XZ 2.0L,Manual,52417,1st,Diesel,UP14-DY7472,26352,1212000,0,Sector-18,Delhi
+Hyundai,2021,VENUE SX 1.0 TURBO,Manual,29239,2nd,Petrol,DL5C-S6197,17016,894000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2017,Baleno ALPHA PETROL 1.2,Manual,65806,1st,Petrol,DL9C-AN8226,9931,508000,0,Sector-18,Delhi
+Honda,2018,City 1.5L I-VTEC ZX CVT,Automatic,82136,2nd,Petrol,HR26-DM6723,15474,792000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2018,Baleno ZETA CVT PETROL 1.2,Automatic,18843,1st,Petrol,DL2C-AZ0705,12551,642000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Renault,2021,Kiger RXZ CVT 1.0 TURBO,Manual,12944,1st,Petrol,DL3C-CU9709,15265,802000,0,Chhatarpur,Delhi
+Mahindra,2019,TUV300 T8,Manual,84145,1st,Diesel,DL12-CQ8563,15393,692000,0,Sector-18,Delhi
+Hyundai,2016,Creta SX PLUS ANNIVERSARY EDITION 1.6 PETROL,Manual,68339,1st,Petrol,HR36-AA1001,15366,786000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2020,Baleno DELTA PETROL 1.2,Manual,22952,1st,Petrol,HR26-EL4572,11750,601000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+KIA,2020,SELTOS HTK PLUS AT 1.5 DIESEL,Automatic,82433,1st,Diesel,HR51-CA7647,19719,1036000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Jeep,2020,Compass LIMITED PLUS DIESEL,Manual,47583,1st,Diesel,HR26-EK0645,31007,1629000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Volkswagen,2014,Polo HIGHLINE1.2L,Manual,57569,1st,Petrol,DL8C-Y2143,8342,375000,0,Sector-18,Delhi
+Hyundai,2015,Elite i20 ASTA 1.2,Manual,84879,1st,Petrol,HR26-CP2832,9091,465000,0,Parsvnath City Mall,Delhi
+Maruti,2016,Ciaz ZXI+,Manual,87163,1st,Petrol,DL3C-CE7154,10714,548000,0,KW Delhi 6,Delhi
+Hyundai,2014,Elite i20 MAGNA 1.2,Manual,52966,2nd,Petrol,DL10-CS5517,9156,412000,0,GIP Mall,Delhi
+Maruti,2016,Baleno ALPHA PETROL 1.2,Manual,44956,1st,Petrol,DL12-CK6893,10049,513999,0,Chhatarpur,Delhi
+Maruti,2020,Alto VXI,Manual,35457,1st,Petrol,DL9C-AV3036,6921,354000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2017,Elite i20 SPORTZ 1.2,Manual,43570,1st,Petrol,DL8C-AS9120,10850,555000,0,GIP Mall,Delhi
+Honda,2016,City 1.5L I-VTEC VX,Manual,84052,1st,Petrol,DL1C-V0126,12082,618000,0,Chhatarpur,Delhi
+Ford,2018,Ecosport TREND + 1.5L PETROL AT,Automatic,75985,1st,Petrol,DL10-CL5921,13196,675000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2021,Swift VXI AMT,Manual,35510,1st,Petrol,HR26-EM2470,12923,661000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Toyota,2019,Glanza G CVT,Manual,55311,2nd,Petrol,HR26-EF9355,12669,648000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Tata,2021,TIGOR XE PETROL,Manual,24927,1st,Petrol,HR30-X2678,10498,537000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2013,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,55136,1st,Petrol,DL4C-BA1497,8137,309000,0,KW Delhi 6,Delhi
+Tata,2022,Safari XMA,Automatic,20858,1st,Diesel,HR98-E7772,33728,1772000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2014,Swift Dzire ZXI,Manual,78609,2nd,Petrol,DL5C-K7577,7685,346000,0,Chhatarpur,Delhi
+Hyundai,2017,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,Manual,73097,1st,Petrol,DL7C-M7549,8192,419000,0,Sector-18,Delhi
+Honda,2014,City 1.5L I-VTEC VX CVT,Automatic,94423,1st,Petrol,DL4C-NC9888,10922,491000,0,Chhatarpur,Delhi
+Maruti,2018,Alto K10 VXI (O),Manual,25933,2nd,Petrol,HR03-X8719,6809,348000,0,Parsvnath City Mall,Delhi
+Datsun,2021,Redi Go T(O),Manual,41535,2nd,Petrol,DL8C-BC4138,6940,355000,0,Sector-18,Delhi
+Tata,2022,Tiago XZ PLUS CNG,Manual,36087,1st,CNG,DL3C-CV5282,13470,689000,0,Sector-18,Delhi
+Maruti,2015,Baleno DELTA PETROL 1.2,Manual,70023,1st,Petrol,UP16-BD0046,8758,448000,0,KW Delhi 6,Delhi
+Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,15492,1st,Petrol,HR72-C1249,8211,420000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Datsun,2021,Redi Go A,Manual,6264,1st,Petrol,DL7C-S4236,6628,339000,0,Sector-18,Delhi
+Hyundai,2017,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,Manual,64850,1st,Petrol,DL8C-AR4017,8583,438999,0,Sector-18,Delhi
+Maruti,2013,Wagon R 1.0 LXI CNG,Manual,75892,1st,CNG,DL4C-AS3058,11674,248000,0,Sector-18,Delhi
+Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,Manual,54959,1st,Petrol,DL9C-AL9167,8426,430999,0,Sector-18,Delhi
+Maruti,2017,Baleno DELTA CVT PETROL 1.2,Automatic,50509,1st,Petrol,DL8C-AR2940,10068,515000,0,Chhatarpur,Delhi
+Toyota,2018,Innova Crysta 2.8 GX AT 7 STR,Automatic,86545,2nd,Diesel,DL1C-Z3842,41301,1598000,0,GIP Mall,Delhi
+Mahindra,2020,XUV300 W6 1.5 DIESEL AMT,Automatic,14394,1st,Diesel,DL12-CS9229,16579,871000,0,Chhatarpur,Delhi
+Tata,2021,NEXON XZA PLUS PETROL,Automatic,36473,1st,Petrol,UP16-CY6912,18375,965000,0,KW Delhi 6,Delhi
+Hyundai,2019,VENUE SX 1.0 TURBO,Manual,48008,1st,Petrol,DL8C-AY2755,15893,835000,0,Chhatarpur,Delhi
+Honda,2020,Amaze 1.2L I-VTEC V CVT,Automatic,21859,1st,Petrol,UP16-CN9755,14780,756000,0,KW Delhi 6,Delhi
+Maruti,2017,Swift LXI (O),Manual,45440,1st,Petrol,DL3C-CM5928,8504,434999,0,"Metro Walk, Rohini, New Delhi",Delhi
+Maruti,2023,New Wagon-R LXI 1.0,Manual,4006,1st,Petrol,HR51-CL2314,10479,536000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2017,Ciaz ALPHA AT 1.4 PETROL,Automatic,85691,1st,Petrol,HR26-DH2632,12356,632000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2017,Ciaz ZETA 1.4 AT PETROL,Automatic,92842,2nd,Petrol,DL2C-AX5052,11554,591000,0,GIP Mall,Delhi
+Renault,2021,Duster RXZ 1.3 TURBO PETROL MT,Manual,50108,1st,Petrol,HR51-CF8061,17968,944000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Hyundai,2019,NEW SANTRO SPORTZ MT,Manual,41083,2nd,Petrol,HR26-EA4418,8426,430999,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Renault,2022,TRIBER RXZ,Manual,30508,1st,Petrol,HR87-H1543,14702,752000,0,Parsvnath City Mall,Delhi
+Maruti,2021,New Wagon-R LXI CNG 1.0,Manual,43689,1st,CNG,HR13-S1002,10596,542000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Renault,2022,Kwid CLIMBER 1.0 (O) DUAL TONE,Manual,26176,1st,Petrol,UP16-DK3624,9103,466000,0,KW Delhi 6,Delhi
+Honda,2017,WR-V 1.2L I-VTEC VX MT,Manual,37935,2nd,Petrol,HR26-DK2802,12610,645000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Maruti,2022,New Wagon-R LXI 1.0,Manual,12434,1st,Petrol,UP15-DX8713,10010,512000,0,Sector-18,Delhi
+Maruti,2013,Wagon R 1.0 VXI,Manual,35895,1st,Petrol,DL9C-AC7923,6610,250999,0,"Metro Walk, Rohini, New Delhi",Delhi
+Hyundai,2018,Creta SX (O) 1.6 PETROL,Manual,51531,1st,Petrol,HR51-BV3648,19491,1024000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Honda,2016,City 1.5L I-VTEC SV,Manual,97885,2nd,Petrol,DL2C-AV6071,10772,551000,0,"M3M Urbana, Golf Course Ext., ...",Delhi
+Maruti,2015,Swift Dzire VXI,Manual,95456,1st,Petrol,DL3C-CK0622,7879,403000,0,KW Delhi 6,Delhi
+Hyundai,2019,NEW SANTRO SPORTZ MT,Manual,49352,1st,Petrol,UP14-EK1464,8837,451999,0,KW Delhi 6,Delhi
+Maruti,2017,Celerio ZXI AMT,Automatic,41724,1st,Petrol,DL9C-AM8206,8250,422000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Honda,2013,Amaze 1.2L I-VTEC S,Manual,42649,1st,Petrol,DL9C-U4952,8321,316000,0,Sector-18,Delhi
+Maruti,2017,Celerio VXI AMT,Automatic,80369,1st,Petrol,DL2C-AX6932,7566,387000,0,GIP Mall,Delhi
+Ford,2017,Ecosport TITANIUM + 1.5L PETROL AT,Manual,67602,3rd,Petrol,HR26-DK2690,12258,627000,0,Parsvnath City Mall,Delhi
+Renault,2019,Duster 85 PS RXS MT DIESEL,Manual,60851,1st,Diesel,HR29-AT9927,15907,715000,0,"Spaze Platinum, Sohna Road, Gu...",Delhi
+Hyundai,2016,i10 SPORTZ 1.1,Manual,83404,1st,Petrol,UP14-DA8955,6021,308000,0,Sector-18,Delhi
+Maruti,2014,Wagon R 1.0 LXI,Manual,53117,1st,Petrol,DL3C-CA2937,6117,275000,0,"Metro Walk, Rohini, New Delhi",Delhi
+Tata,2021,NEXON XZ PLUS DIESEL SUNROOF,Manual,32265,1st,Diesel,DL9C-AW1889,19434,1021000,0,"Metro Walk, Rohini, New Delhi",Delhi
+KIA,2022,SONET HTK 1.5,Manual,23502,1st,Diesel,DL3C-CV6106,18178,955000,0,Chhatarpur,Delhi
+Maruti,2017,Ciaz ZETA 1.4 AT PETROL,Automatic,63948,1st,Petrol,DL2C-AY2295,13490,690000,0,Sector-18,Delhi

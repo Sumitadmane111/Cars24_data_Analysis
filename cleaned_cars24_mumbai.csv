@@ -1,0 +1,555 @@
+Brand,Car Model,Car Name,Car Transmission,KM driven,Owner Type,Fuel Type,Registration ID,Monthly EMI,Car Price,Downpayment Amount,Location,City
+Maruti,2017,Ertiga VXI CNG,Manual,72571,1st,CNG,MH47-W2566,15073,771000,0,Goregaon,Mumbai
+Hyundai,2017,Creta E PLUS 1.6 PETROL,Manual,39827,1st,Petrol,MH02-EP0091,14936,764000,0,Goregaon,Mumbai
+Hyundai,2019,Elite i20 SPORTZ PLUS 1.2 CVT,Automatic,35902,1st,Petrol,MH01-DE8757,13470,689000,0,Goregaon,Mumbai
+Maruti,2015,Wagon R 1.0 VXI,Manual,28048,2nd,Petrol,MH46-AP2863,6452,330000,0,Goregaon,Mumbai
+Maruti,2018,Swift VXI AMT,Automatic,41110,1st,Petrol,MH01-DB4479,10792,552000,0,Mulund West,Mumbai
+Maruti,2014,Alto 800 LXI,Manual,87564,1st,Petrol,MH46-Z6737,4560,204999,0,Mulund West,Mumbai
+Nissan,2022,MAGNITE XV PREMIUM TURBO CVT,Automatic,3955,1st,Petrol,MH02-FU8367,17359,911999,0,Goregaon,Mumbai
+Renault,2019,TRIBER RXL MT,Manual,21917,1st,Petrol,MH01-DK2607,9501,486000,0,Goregaon,Mumbai
+Hyundai,2019,VENUE S 1.2,Manual,5114,1st,Petrol,MH47-AN4114,13998,716000,0,Goregaon,Mumbai
+Maruti,2017,Celerio ZXI,Manual,27882,1st,Petrol,MH47-W0326,8192,419000,0,Goregaon,Mumbai
+Hyundai,2013,Verna FLUIDIC 1.6 VTVT SX,Manual,65914,2nd,Petrol,MH02-CV8593,9875,375000,0,Goregaon,Mumbai
+Hyundai,2016,Creta SX PLUS 1.6 PETROL,Manual,31391,1st,Petrol,MH01-CD6438,14780,756000,0,Seawood,Mumbai
+Tata,2020,NEXON XM SUNROOF PETROL,Manual,26615,1st,Petrol,MH47-AU6947,15093,772000,0,Seawood,Mumbai
+Maruti,2019,S PRESSO VXI+,Manual,11141,1st,Petrol,MH02-FJ2158,8094,413999,0,Mulund West,Mumbai
+Maruti,2017,Dzire ZDI AMT,Manual,69399,1st,Diesel,MH02-EP1950,11965,612000,0,Seawood,Mumbai
+Maruti,2014,Ertiga VXI,Manual,65000,2nd,Petrol,MH04-GJ6726,11901,535000,0,Goregaon,Mumbai
+Skoda,2018,Rapid STYLE 1.6 MPI,Manual,59417,1st,Petrol,MH01-DB7576,14193,726000,0,Mulund West,Mumbai
+Honda,2019,City 1.5L I-VTEC SV,Manual,28051,1st,Petrol,MH05-EA3698,15308,783000,0,Goregaon,Mumbai
+Hyundai,2021,NEW I20 ASTA 1.2 AT,Automatic,13753,1st,Petrol,MH02-FN4035,16369,860000,0,Mulund West,Mumbai
+Tata,2018,TIGOR XZ PETROL,Manual,45641,1st,Petrol,MH04-JM2876,9404,480999,0,Goregaon,Mumbai
+Datsun,2018,Redi Go S 1.0 AMT,Automatic,51310,1st,Petrol,MH12-QM5153,5572,285000,0,Goregaon,Mumbai
+Volkswagen,2015,Polo GT TSI AT,Automatic,70096,2nd,Petrol,MH03-BW9246,10772,551000,0,Mulund West,Mumbai
+Maruti,2014,Wagon R 1.0 LXI CNG,Manual,94053,2nd,CNG,MH03-BS9094,10197,307000,0,Goregaon,Mumbai
+Tata,2021,NEXON XZ PLUS PETROL,Manual,20056,1st,Petrol,MH43-BY4064,15874,834000,0,Mulund West,Mumbai
+Volkswagen,2021,TAIGUN HIGHLINE 1.0 TSI AT,Automatic,28153,2nd,Petrol,MH14-JU5753,22498,1182000,0,Goregaon,Mumbai
+Volkswagen,2023,VIRTUS GT PLUS TSI 1.5 EVO DSG,Automatic,8966,1st,Petrol,MH01-EF2856,33652,1768000,0,Seawood,Mumbai
+Maruti,2017,Dzire VXI,Manual,36501,1st,Petrol,MH05-DH4667,9853,504000,0,Goregaon,Mumbai
+Hyundai,2021,VENUE SX 1.0 TURBO IMT,Manual,13756,1st,Petrol,MH05-EQ8433,18743,985000,0,Mulund West,Mumbai
+Hyundai,2014,Xcent S 1.2,Manual,95827,2nd,Petrol,MH04-GM2201,8319,374000,0,Mulund West,Mumbai
+Maruti,2013,Swift VXI,Manual,55952,1st,Petrol,MH04-GJ1996,9322,354000,0,Mulund West,Mumbai
+Maruti,2014,Wagon R 1.0 LXI,Manual,67447,1st,Petrol,MH03-BS8734,6740,303000,0,Mulund West,Mumbai
+Volkswagen,2019,Ameo COMFORTLINE 1.0L,Manual,34651,2nd,Petrol,MH05-EA3696,11183,572000,0,Seawood,Mumbai
+Honda,2018,WR-V 1.2L I-VTEC VX MT,Manual,22652,1st,Petrol,MH02-EZ4913,14213,727000,0,Mulund West,Mumbai
+Ford,2016,Ecosport TITANIUM 1.5L PETROL,Manual,56500,2nd,Petrol,MH47-K6601,9716,497000,0,Mulund West,Mumbai
+Maruti,2015,Wagon R 1.0 VXI,Manual,40716,1st,Petrol,MH47-A5041,6647,340000,0,Mulund West,Mumbai
+Hyundai,2016,Creta SX PLUS 1.6 DIESEL,Manual,77586,1st,Diesel,MH01-CH6643,15227,800000,0,Goregaon,Mumbai
+Mahindra,2017,XUV500 W10 AT,Automatic,57449,1st,Diesel,MH02-EU0898,22346,1174000,0,Mulund West,Mumbai
+Honda,2020,WR-V 1.2L I-VTEC VX MT,Manual,42897,1st,Petrol,MH31-FR1686,15230,779000,0,Mulund West,Mumbai
+Maruti,2014,Swift Dzire ZDI,Manual,11144,1st,Diesel,MH05-CM9865,16143,613000,0,Goregaon,Mumbai
+Honda,2019,WR-V 1.2L I-VTEC S MT,Manual,14144,1st,Petrol,MH03-DA7141,12923,661000,0,Mulund West,Mumbai
+Honda,2017,City 1.5L I-VTEC ZX CVT,Automatic,33613,1st,Petrol,MH43-BK1659,15722,826000,0,Mulund West,Mumbai
+Honda,2018,City 1.5L I-VTEC V MT,Manual,93703,2nd,Petrol,MH01-DB0756,13763,704000,0,Goregaon,Mumbai
+KIA,2020,SELTOS GTX PLUS DCT 1.4 PETROL,Automatic,65200,1st,Petrol,MH01-DK7925,26534,1394000,0,Mulund West,Mumbai
+Honda,2018,WR-V 1.2L I-VTEC VX MT,Manual,59897,1st,Petrol,MH43-BN0720,13900,711000,0,Goregaon,Mumbai
+Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,Automatic,83626,1st,Petrol,MH02-EE8694,16255,853999,0,Goregaon,Mumbai
+Hyundai,2014,Xcent S (O) 1.2,Manual,34833,1st,Petrol,MH46-Z9310,8942,401999,0,Goregaon,Mumbai
+Maruti,2016,Baleno ZETA PETROL 1.2,Manual,46564,1st,Petrol,MH48-AK7889,9971,509999,0,Mulund West,Mumbai
+Maruti,2021,New Wagon-R LXI CNG (O) 1.0,Manual,36188,1st,CNG,MH47-AY1975,12123,620000,0,Mulund West,Mumbai
+Hyundai,2022,AURA SX PLUS 1.2 AMT,Automatic,20883,1st,Petrol,MH04-LB5922,16084,844999,0,Goregaon,Mumbai
+Maruti,2013,Wagon R 1.0 LXI CNG,Manual,75349,2nd,CNG,MH46-X1584,14263,303000,0,Mulund West,Mumbai
+Hyundai,2016,Xcent S 1.2,Manual,95722,3rd,Petrol,MH43-AT9483,6940,355000,0,Mulund West,Mumbai
+Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,Automatic,53229,1st,Petrol,MH04-KD7021,16426,863000,0,Goregaon,Mumbai
+Honda,2013,Brio VX AT,Automatic,56041,2nd,Petrol,MH04-GE5772,8822,335000,0,Goregaon,Mumbai
+Maruti,2015,Wagon R 1.0 VXI AMT,Automatic,95214,1st,Petrol,MH43-AT7159,6237,319000,0,Mulund West,Mumbai
+Maruti,2016,Vitara Brezza ZDI PLUS,Manual,74960,3rd,Diesel,MH02-EK3168,12688,649000,0,Goregaon,Mumbai
+Maruti,2021,New Wagon-R LXI CNG (O) 1.0,Manual,13106,1st,CNG,MH04-KR8256,12414,635000,0,Mulund West,Mumbai
+Maruti,2015,Wagon R 1.0 LXI CNG,Manual,29830,1st,CNG,MH47-A4031,9717,369000,0,Seawood,Mumbai
+Maruti,2019,S PRESSO VXI PLUS AMT,Automatic,21125,1st,Petrol,MH01-DK4808,9065,463999,0,Seawood,Mumbai
+Hyundai,2016,Creta SX PLUS 1.6 PETROL,Manual,71684,1st,Petrol,MH01-CD8985,14369,735000,0,Goregaon,Mumbai
+Honda,2019,City 1.5L I-VTEC VX CVT,Automatic,54705,1st,Petrol,MH01-DE9747,18235,958000,0,Goregaon,Mumbai
+Maruti,2016,Baleno DELTA PETROL 1.2,Manual,43373,1st,Petrol,MH47-Q2451,9814,501999,0,Mulund West,Mumbai
+Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,59809,2nd,Petrol,MH05-CV5645,7273,372000,0,Seawood,Mumbai
+Maruti,2016,Baleno DELTA PETROL 1.2,Manual,43273,1st,Petrol,MH01-CH1712,9873,505000,0,Goregaon,Mumbai
+Hyundai,2017,Creta SX PLUS 1.6 PETROL,Manual,47534,2nd,Petrol,MH05-DH3208,15190,777000,0,Goregaon,Mumbai
+Skoda,2018,Rapid STYLE 1.6 MPI AT,Automatic,49088,1st,Petrol,MH01-DE3250,13490,690000,0,Goregaon,Mumbai
+Renault,2016,Kwid RXT 1.0,Manual,26728,1st,Petrol,MH03-CB8212,5513,282000,0,Mulund West,Mumbai
+Hyundai,2017,Verna 1.6 VTVT S AT,Automatic,57376,1st,Petrol,MH43-BK0324,10518,538000,0,Mulund West,Mumbai
+Honda,2022,Jazz 1.2L I-VTEC VX CVT,Automatic,4980,1st,Petrol,MH03-DX3461,17797,935000,0,Seawood,Mumbai
+Hyundai,2017,Creta E PLUS 1.6 PETROL,Manual,23252,2nd,Petrol,MH46-BA4361,14897,762000,0,Mulund West,Mumbai
+Tata,2020,ALTROZ XZ PETROL,Manual,11670,1st,Petrol,MH02-FJ8657,14741,754000,0,Goregaon,Mumbai
+Hyundai,2017,Creta E PLUS 1.6 PETROL,Manual,77926,1st,Petrol,MH02-EP8050,15132,774000,0,Goregaon,Mumbai
+Maruti,2021,S PRESSO VXI PLUS AMT,Automatic,26592,1st,Petrol,MH05-EQ6607,8837,451999,0,Mulund West,Mumbai
+Honda,2015,City 1.5L I-DTEC SV,Manual,91712,2nd,Diesel,MH01-BY2513,10855,488000,0,Goregaon,Mumbai
+Maruti,2016,Alto K10 VXI,Manual,58850,1st,Petrol,MH05-CV1344,5376,275000,0,Goregaon,Mumbai
+Hyundai,2018,NEW SANTRO SPORTZ AMT,Automatic,52080,1st,Petrol,MH15-GR5322,9834,503000,0,Goregaon,Mumbai
+Maruti,2011,Ritz VXI,Manual,96515,1st,Petrol,MH05-AX2513,8567,182000,0,Goregaon,Mumbai
+Honda,2021,Amaze 1.2L I-VTEC S,Manual,15721,1st,Petrol,MH05-EQ6325,11887,608000,0,Mulund West,Mumbai
+Hyundai,2021,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,Automatic,11769,1st,Petrol,MH43-BU8305,14702,752000,0,Mulund West,Mumbai
+Volkswagen,2013,Vento COMFORTLINE DIESEL 1.6,Manual,89759,1st,Diesel,MH03-BH7022,10529,317000,0,Mulund West,Mumbai
+Renault,2019,Kwid RXT 1.0 AMT (O),Automatic,33843,2nd,Petrol,MH04-KD3918,6647,340000,0,Seawood,Mumbai
+Maruti,2015,Swift Dzire VXI,Manual,84357,1st,Petrol,MH43-AT0194,7253,371000,0,Mulund West,Mumbai
+Honda,2012,City 1.5L I-VTEC CORPORATE MT,Manual,62671,1st,Petrol,MH03-BE6570,10064,303000,0,Seawood,Mumbai
+Tata,2020,NEXON XM SUNROOF PETROL,Manual,3646,1st,Petrol,MH02-FN0427,15303,803999,0,Goregaon,Mumbai
+Maruti,2021,New Wagon-R VXI 1.2,Manual,18693,1st,Petrol,MH03-DU5217,11163,571000,0,Mulund West,Mumbai
+Nissan,2022,MAGNITE XV MT,Manual,32892,1st,Petrol,MH47-BF3365,13001,665000,0,Goregaon,Mumbai
+Maruti,2017,IGNIS ZETA 1.2 AMT DUAL TONE,Automatic,38048,2nd,Petrol,MH19-CU1246,9775,500000,0,Goregaon,Mumbai
+Hyundai,2016,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,33204,2nd,Petrol,MH04-HM1928,7840,401000,0,Goregaon,Mumbai
+Ford,2018,FREESTYLE TREND 1.2 PETROL,Manual,33314,1st,Petrol,MH46-BE9415,9384,480000,0,Goregaon,Mumbai
+Maruti,2012,Alto 800 LXI,Manual,27138,2nd,Petrol,MH02-CV1709,6444,194000,0,Seawood,Mumbai
+Honda,2018,Jazz 1.2L I-VTEC VX AT,Manual,24232,1st,Petrol,MH03-DA0841,13138,672000,0,Mulund West,Mumbai
+Maruti,2021,New Wagon-R LXI CNG 1.0,Manual,26725,1st,CNG,MH46-BV5706,11897,609000,0,Seawood,Mumbai
+Tata,2023,TIGOR XMA PETROL,Automatic,6789,1st,Petrol,MH47-BK4114,13998,716000,0,Goregaon,Mumbai
+Honda,2017,City 1.5L I-VTEC V MT,Manual,22437,2nd,Petrol,MH03-CM3502,13842,708000,0,Goregaon,Mumbai
+Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,33236,1st,Petrol,MH47-A0452,6940,355000,0,Mulund West,Mumbai
+Maruti,2019,Baleno DELTA CVT PETROL 1.2,Automatic,16547,2nd,Petrol,MH04-KD1089,11730,600000,0,Mulund West,Mumbai
+Maruti,2016,Celerio VXI CNG,Manual,90219,2nd,CNG,MH02-EE7634,8987,404000,0,Seawood,Mumbai
+Honda,2018,Jazz 1.2L I-VTEC VX,Manual,26130,2nd,Petrol,MH01-DB3180,9423,482000,0,Mulund West,Mumbai
+Maruti,2016,Baleno DELTA CVT PETROL 1.2,Automatic,58631,2nd,Petrol,MH01-CD6011,10088,516000,0,Goregaon,Mumbai
+Maruti,2017,Vitara Brezza VDI,Manual,53140,1st,Diesel,MH02-EK7795,13216,676000,0,Seawood,Mumbai
+Volkswagen,2016,Ameo HIGHLINE1.2L,Manual,11341,1st,Petrol,MH06-BU1049,9462,484000,0,Seawood,Mumbai
+Hyundai,2018,Verna 1.6 VTVT SX (O) AT,Automatic,63920,1st,Petrol,MH47-AG0626,15855,833000,0,Seawood,Mumbai
+Skoda,2015,Rapid ELEGANCE 1.6 MPI MT,Manual,63084,1st,Petrol,MH02-EE0977,7703,394000,0,Mulund West,Mumbai
+Hyundai,2015,Elite i20 SPORTZ 1.2,Manual,63269,2nd,Petrol,MH01-BY6075,7728,395000,0,Mulund West,Mumbai
+Skoda,2020,Rapid AMBITION TSI,Manual,22978,1st,Petrol,MH03-DK4913,14448,739000,0,Seawood,Mumbai
+Honda,2011,City 1.5L I-VTEC V MT,Manual,90143,2nd,Petrol,MH01-AX8802,12239,260000,0,Mulund West,Mumbai
+Hyundai,2020,AURA S 1.2 CNG,Manual,53586,2nd,CNG,MH05-EJ2659,12219,625000,0,Mulund West,Mumbai
+Tata,2018,Tiago XZ PETROL,Manual,90317,1st,Petrol,MH14-GY4236,8016,409999,0,Goregaon,Mumbai
+Maruti,2022,Dzire ZXI CNG,Manual,33650,1st,CNG,MH43-CC2549,15399,809000,0,Mulund West,Mumbai
+Hyundai,2021,AURA SX 1.2 (O),Manual,16365,1st,Petrol,MH46-BZ5422,13470,689000,0,Mulund West,Mumbai
+Maruti,2014,Wagon R 1.0 LXI CNG,Manual,69410,2nd,CNG,MH02-DS4516,9533,287000,0,Goregaon,Mumbai
+Maruti,2020,Baleno ZETA PETROL 1.2,Manual,14523,2nd,Petrol,MH04-KL4721,12023,615000,0,Goregaon,Mumbai
+Honda,2017,City 1.5L I-VTEC VX,Manual,39420,1st,Petrol,MH46-BC6633,14037,718000,0,Goregaon,Mumbai
+Maruti,2020,Dzire ZXI PLUS AMT,Manual,55907,2nd,Petrol,MH47-AU4542,11945,611000,0,Mulund West,Mumbai
+Hyundai,2016,Elite i20 MAGNA 1.2,Manual,26224,2nd,Petrol,MH05-CV5392,8641,442000,0,Goregaon,Mumbai
+Maruti,2017,Baleno ALPHA DIESEL 1.3,Manual,73436,1st,Diesel,MH04-HX5522,11339,580000,0,Seawood,Mumbai
+Hyundai,2018,Grand i10 MAGNA U2 1.2 CRDI,Manual,113120,1st,Diesel,MH46-BK6991,9632,433000,0,Mulund West,Mumbai
+Skoda,2013,Rapid ACTIVE 1.6 TDI CR MT PLUS,Manual,56954,1st,Diesel,MH02-CW5637,11027,332000,0,Goregaon,Mumbai
+Maruti,2016,Swift Dzire VXI,Manual,34315,1st,Petrol,MH05-CV0056,9247,473000,0,Goregaon,Mumbai
+Volkswagen,2022,VIRTUS HIGHLINE TSI 1.0 MT,Manual,15098,1st,Petrol,MH04-LH0876,22232,1168000,0,Mulund West,Mumbai
+Hyundai,2014,Verna FLUIDIC 1.6 VTVT SX,Manual,65189,2nd,Petrol,MH02-DN9736,9699,436000,0,Seawood,Mumbai
+Maruti,2017,IGNIS DELTA 1.2 AMT,Automatic,20687,1st,Petrol,MH03-CM2566,9482,484999,0,Goregaon,Mumbai
+Hyundai,2011,i20 ASTA 1.2,Manual,72357,3rd,Petrol,MH02-BZ9982,10733,227999,0,Goregaon,Mumbai
+Maruti,2015,Ertiga VXI CNG,Manual,52143,3rd,CNG,MH03-BW1241,15511,589000,0,Goregaon,Mumbai
+Hyundai,2014,i20 SPORTZ 1.2,Manual,35207,2nd,Petrol,MH02-DN0814,8141,366000,0,Goregaon,Mumbai
+Maruti,2019,Baleno ALPHA PETROL 1.2,Manual,51655,1st,Petrol,MH47-AG7461,11234,575000,0,Goregaon,Mumbai
+Maruti,2017,Baleno DELTA PETROL 1.2,Manual,57626,1st,Petrol,MH04-HX7906,9325,476999,0,Goregaon,Mumbai
+Hyundai,2015,Elite i20 MAGNA 1.2,Manual,69078,1st,Petrol,MH46-AL4472,8485,434000,0,Goregaon,Mumbai
+Honda,2016,City 1.5L I-VTEC V MT,Manual,35825,1st,Petrol,MH01-CH5957,10459,535000,0,Seawood,Mumbai
+Honda,2012,Brio S MT,Manual,60023,3rd,Petrol,MH02-CP8597,6875,206999,0,Seawood,Mumbai
+Honda,2018,Amaze 1.2L I-VTEC V CVT,Automatic,66032,1st,Petrol,MH03-DA8008,11476,587000,0,Seawood,Mumbai
+Maruti,2011,Swift ZXI,Manual,67725,2nd,Petrol,MH01-BB2081,13981,297000,0,Mulund West,Mumbai
+Hyundai,2016,Creta E PLUS 1.6 PETROL,Manual,56586,2nd,Petrol,MH03-CB8150,13001,665000,0,Mulund West,Mumbai
+Honda,2012,City 1.5L I-VTEC V MT,Manual,69461,3rd,Petrol,MH03-BH4579,10330,311000,0,Mulund West,Mumbai
+Maruti,2020,Celerio ZXI,Manual,23043,2nd,Petrol,MH19-CV8147,7840,401000,0,Mulund West,Mumbai
+Maruti,2020,Baleno DELTA PETROL 1.2,Manual,29044,1st,Petrol,MH43-BU2433,11750,601000,0,Mulund West,Mumbai
+Tata,2018,NEXON XM PETROL,Manual,13664,2nd,Petrol,MH47-AB9813,11300,578000,0,Mulund West,Mumbai
+Maruti,2017,Dzire ZDI PLUS,Manual,92625,1st,Diesel,MH47-W2905,12375,633000,0,Goregaon,Mumbai
+Maruti,2017,Ciaz ZDI+ SHVS,Manual,75584,1st,Diesel,MH02-EK6504,11847,606000,0,Mulund West,Mumbai
+Maruti,2017,Wagon R 1.0 VXI,Manual,19020,1st,Petrol,MH01-CP7619,7054,361000,0,Goregaon,Mumbai
+Maruti,2014,Celerio VXI,Manual,65485,1st,Petrol,MH47-A0493,6851,308000,0,Goregaon,Mumbai
+Honda,2015,City 1.5L I-VTEC S MT,Manual,79021,2nd,Petrol,MH02-DW2210,8465,433000,0,Goregaon,Mumbai
+Maruti,2018,Ertiga ZDI SHVS,Manual,47225,1st,Diesel,MH02-EU5968,15989,840000,0,Goregaon,Mumbai
+Honda,2015,City 1.5L I-VTEC VX (O) MT,Manual,29479,1st,Petrol,MH01-CD0341,11459,586000,0,Mulund West,Mumbai
+Maruti,2022,BREZZA ZXI SMART HYBRID,Manual,5377,1st,Petrol,MH03-EB1506,22517,1183000,0,Goregaon,Mumbai
+Hyundai,2011,i10 MAGNA 1.1,Manual,79115,2nd,Petrol,MH04-ET2698,9226,196000,0,Goregaon,Mumbai
+Maruti,2014,Swift VXI,Manual,69220,1st,Petrol,MH46-Z5440,7897,355000,0,Goregaon,Mumbai
+Tata,2018,TIGOR XZA PETROL,Automatic,48178,2nd,Petrol,MH04-JM7858,9576,490000,0,Mulund West,Mumbai
+Maruti,2021,S PRESSO VXI+,Manual,12655,1st,Petrol,MH03-DU4502,7996,409000,0,Goregaon,Mumbai
+Skoda,2017,Rapid STYLE 1.6 MPI AT,Automatic,84858,3rd,Petrol,MH03-CS1294,10342,529000,0,Goregaon,Mumbai
+Renault,2019,Duster 110 PS RXZ MT DIESEL,Manual,89481,2nd,Diesel,MH47-AN2795,14545,744000,0,Mulund West,Mumbai
+Tata,2020,Tiago XT PETROL,Manual,42969,2nd,Petrol,MH02-FJ6536,9130,467000,0,Mulund West,Mumbai
+Maruti,2013,Swift Dzire VXI,Manual,47225,1st,Petrol,MH03-BH7164,9401,357000,0,Seawood,Mumbai
+Hyundai,2012,i20 MAGNA 1.2,Manual,54639,1st,Petrol,MH01-BF6495,9931,299000,0,Mulund West,Mumbai
+Renault,2021,Kiger RXL MT,Manual,46060,1st,Petrol,MH43-BY1701,10761,550000,0,Goregaon,Mumbai
+Maruti,2014,Ciaz VDI,Manual,60741,1st,Diesel,MH02-DS8458,13615,517000,0,Goregaon,Mumbai
+Renault,2020,Kwid RXT 1.0 AMT (O),Automatic,31238,1st,Petrol,MH02-FJ3993,8289,424000,0,Mulund West,Mumbai
+Honda,2013,CRV 2.0L 2WD MT,Manual,101898,1st,Petrol,MH04-FZ6710,13272,504000,0,Mulund West,Mumbai
+Maruti,2017,Baleno ZETA PETROL 1.2,Manual,49469,2nd,Petrol,MH05-DE0980,9110,466000,0,Mulund West,Mumbai
+Maruti,2021,Dzire VXI,Manual,18343,1st,Petrol,MH01-DX1168,12590,644000,0,Goregaon,Mumbai
+Hyundai,2013,i20 SPORTZ 1.2,Manual,81359,1st,Petrol,MH43-AN3680,8427,320000,0,Mulund West,Mumbai
+Volkswagen,2014,Polo COMFORTLINE 1.2L,Manual,25705,1st,Petrol,MH02-DS2950,8764,394000,0,Goregaon,Mumbai
+Volkswagen,2014,Polo HIGHLINE1.2L,Manual,46222,3rd,Petrol,MH02-DJ7490,7910,356000,0,Mulund West,Mumbai
+Maruti,2015,Swift VXI,Manual,65318,1st,Petrol,MH04-GZ7465,7976,408000,0,Goregaon,Mumbai
+Honda,2023,Amaze 1.2L I-VTEC S CVT,Automatic,8096,1st,Petrol,MH02-FY3829,15582,797000,0,Goregaon,Mumbai
+Maruti,2017,Celerio VXI,Manual,34454,1st,Petrol,MH01-CP1759,7585,388000,0,Goregaon,Mumbai
+Renault,2022,Kwid RXL 1.0 (O),Manual,4744,1st,Petrol,MH47-BF4264,8504,434999,0,Mulund West,Mumbai
+Maruti,2012,Wagon R 1.0 VXI,Manual,30041,1st,Petrol,MH02-CL0686,8204,247000,0,Mulund West,Mumbai
+Maruti,2012,Swift VXI,Manual,52004,2nd,Petrol,MH04-FF8264,10263,309000,0,Goregaon,Mumbai
+Hyundai,2018,Creta SX (O) 1.6 DIESEL,Manual,66796,1st,Diesel,MH02-EU9313,19719,1036000,0,Mulund West,Mumbai
+Hyundai,2015,Elite i20 SPORTZ 1.2 (O),Manual,77613,1st,Petrol,MH02-DZ1097,8837,451999,0,Mulund West,Mumbai
+Volkswagen,2016,Polo GT TSI AT,Automatic,78771,1st,Petrol,MH03-CB5051,10605,542000,0,Mulund West,Mumbai
+Honda,2017,City 1.5L I-VTEC ZX CVT,Automatic,43060,2nd,Petrol,MH12-PZ6623,13040,667000,0,Goregaon,Mumbai
+Tata,2019,Harrier XZ 2.0L,Manual,52045,2nd,Diesel,MH04-KD4626,24668,1296000,0,Goregaon,Mumbai
+Hyundai,2018,Creta SX PLUS 1.6 PETROL DUAL TONE,Manual,50556,1st,Petrol,MH05-DS7875,16407,861999,0,Seawood,Mumbai
+Maruti,2022,Celerio ZXI,Manual,11147,2nd,Petrol,MH47-BF3889,9540,488000,0,Seawood,Mumbai
+Honda,2020,City 1.5L I-VTEC ZX,Manual,44722,1st,Petrol,MH46-BQ5934,17492,919000,0,Goregaon,Mumbai
+Ford,2017,Ecosport TREND 1.5L DIESEL,Manual,55356,1st,Diesel,MH04-LT4021,11583,592000,0,Mulund West,Mumbai
+Honda,2017,City 1.5L I-VTEC V MT,Manual,38411,1st,Petrol,MH47-Q7458,13411,686000,0,Mulund West,Mumbai
+Honda,2021,City 1.5L I-VTEC ZX CVT,Automatic,22500,1st,Petrol,MH05-ER2424,22955,1206000,0,Mulund West,Mumbai
+Honda,2015,City 1.5L I-VTEC V MT,Manual,76749,2nd,Petrol,MH01-BY4993,8817,451000,0,Mulund West,Mumbai
+Hyundai,2016,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,76719,1st,Petrol,MH05-CV1582,7410,379000,0,Seawood,Mumbai
+Maruti,2017,Swift ZXI,Manual,29424,1st,Petrol,MH16-BY5614,9756,499000,0,Mulund West,Mumbai
+Skoda,2015,Rapid 1.5 TDI CR STYLE PLUS AT,Manual,35375,2nd,Diesel,MH02-DZ9473,11389,512000,0,Mulund West,Mumbai
+Tata,2020,ALTROZ XZ PETROL,Manual,47992,1st,Petrol,MH43-BU3448,13060,668000,0,Mulund West,Mumbai
+Maruti,2020,S Cross ALPHA AT SMART HYBRID,Manual,29624,1st,Petrol,MH40-CA1570,19529,1026000,0,Mulund West,Mumbai
+Jeep,2019,Compass SPORT 1.4 PETROL,Manual,10405,1st,Petrol,MH01-DE9218,21642,1137000,0,Goregaon,Mumbai
+Jeep,2017,Compass LIMITED 1.4 PETROL AT,Automatic,21921,2nd,Petrol,MH02-EU0783,18863,991000,0,Mulund West,Mumbai
+Hyundai,2019,Creta SX 1.6 PETROL,Manual,60529,1st,Petrol,MH46-BQ2733,16579,871000,0,Goregaon,Mumbai
+Maruti,2016,Celerio VXI CNG,Manual,91598,1st,CNG,MH47-Q1924,7919,356000,0,Seawood,Mumbai
+Maruti,2015,Wagon R 1.0 LXI CNG,Manual,78600,1st,CNG,MH46-AL8618,8479,322000,0,Goregaon,Mumbai
+Honda,2017,Jazz 1.2L I-VTEC V,Manual,55248,1st,Petrol,MH01-CP7353,8661,443000,0,Goregaon,Mumbai
+Hyundai,2018,NEW SANTRO SPORTZ AMT,Automatic,19642,1st,Petrol,MH43-BN4028,9365,479000,0,Goregaon,Mumbai
+Honda,2016,City 1.5L I-VTEC SV,Manual,83615,1st,Petrol,MH04-HM4965,10870,556000,0,Mulund West,Mumbai
+Maruti,2016,Alto 800 LXI,Manual,45935,2nd,Petrol,MH01-CH3724,4907,250999,0,Mulund West,Mumbai
+Honda,2015,Jazz 1.2L I-VTEC V AT,Automatic,33907,1st,Petrol,MH02-DZ8685,9208,471000,0,Seawood,Mumbai
+Maruti,2020,S Cross ALPHA 1.5 SMART HYBRID,Manual,52649,1st,Petrol,MH40-CA1557,17238,906000,0,Mulund West,Mumbai
+Hyundai,2015,Elite i20 SPORTZ 1.2,Manual,52497,1st,Petrol,MH01-BY6343,9091,465000,0,Mulund West,Mumbai
+Honda,2016,City 1.5L I-VTEC SV,Manual,60664,2nd,Petrol,MH43-AW1765,9697,496000,0,Mulund West,Mumbai
+Maruti,2019,IGNIS DELTA 1.2,Manual,37783,2nd,Petrol,MH04-KD2407,8504,434999,0,Goregaon,Mumbai
+Maruti,2020,IGNIS ALPHA 1.2,Manual,20435,1st,Petrol,MH43-BU3290,11202,573000,0,Goregaon,Mumbai
+Hyundai,2018,Creta SX AT 1.6 DIESEL,Automatic,107774,1st,Diesel,MH02-EZ5337,22308,1026000,0,Seawood,Mumbai
+Maruti,2017,Ertiga ZDI + SHVS,Manual,44741,1st,Diesel,MH05-DH1397,16883,886999,0,Mulund West,Mumbai
+KIA,2020,SELTOS GTX PLUS DCT 1.4 PETROL,Automatic,34698,1st,Petrol,MH04-KL3267,27247,1431000,0,Mulund West,Mumbai
+Maruti,2014,Ertiga VXI CNG,Manual,111085,2nd,CNG,MH02-DN3917,18069,544000,0,Goregaon,Mumbai
+Tata,2019,TIGOR XZ PLUS PETROL,Manual,87229,1st,Petrol,MH48-BH5207,9599,491000,0,Mulund West,Mumbai
+Maruti,2020,Ciaz S 1.5 MT PETROL,Manual,42385,2nd,Petrol,MH40-CA0342,14841,759000,0,Mulund West,Mumbai
+Tata,2023,NEXON XZA PLUS PETROL,Automatic,6437,1st,Petrol,MH47-BK0917,20785,1092000,0,Goregaon,Mumbai
+Maruti,2023,New Wagon-R LXI 1.0,Manual,1958,1st,Petrol,MH47-BK2665,11515,589000,0,Goregaon,Mumbai
+Hyundai,2014,i10 SPORTZ 1.1,Manual,49842,2nd,CNG,MH48-S8832,9898,298000,0,Mulund West,Mumbai
+Hyundai,2016,Creta S 1.6 PETROL,Manual,48860,1st,Petrol,MH03-CB4090,14233,728000,0,Goregaon,Mumbai
+Hyundai,2017,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,109662,1st,CNG,MH05-DH4364,9810,441000,0,Goregaon,Mumbai
+Toyota,2022,URBAN CRUISER PREMIUM GRADE AT,Automatic,33986,1st,Petrol,MH01-EB3891,19434,1021000,0,Seawood,Mumbai
+Hyundai,2016,Creta SX PLUS 1.6 PETROL,Manual,41441,1st,Petrol,MH01-CH1348,13959,714000,0,Seawood,Mumbai
+Renault,2019,Kwid RXT 1.0 AMT,Manual,79343,2nd,Petrol,MH03-DG0785,7441,381000,0,Goregaon,Mumbai
+Hyundai,2018,Creta SX (O) 1.6 PETROL,Manual,27420,1st,Petrol,MH02-EZ0084,19320,1015000,0,Mulund West,Mumbai
+Maruti,2014,Swift Dzire ZDI,Manual,114899,2nd,Diesel,MH46-Z8904,12503,475000,0,Mulund West,Mumbai
+Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,Manual,11942,1st,CNG,MH43-BY9884,13294,680000,0,Goregaon,Mumbai
+Tata,2021,NEXON XZA PLUS (O) PETROL DARK EDITION,Automatic,48451,1st,Petrol,MH20-FX4050,19643,1032000,0,Mulund West,Mumbai
+Nissan,2013,Micra XV CVT,Manual,68726,1st,Petrol,MH43-AN6624,8032,305000,0,Goregaon,Mumbai
+Hyundai,2019,NEW SANTRO MAGNA,Manual,16445,1st,Petrol,MH05-DS9285,8504,434999,0,Mulund West,Mumbai
+Honda,2015,City 1.5L I-VTEC VX,Manual,100831,1st,Petrol,MH01-BY7255,10455,470000,0,Goregaon,Mumbai
+Maruti,2016,Swift VXI O,Manual,35970,1st,Petrol,MH46-AU5153,9013,461000,0,Goregaon,Mumbai
+Honda,2012,City 1.5L I-VTEC S MT,Manual,80218,1st,Petrol,MH01-BF1300,10496,316000,0,Seawood,Mumbai
+Toyota,2011,Etios Liva G,Manual,77595,1st,Petrol,MH43-AJ4942,11768,250000,0,Mulund West,Mumbai
+Hyundai,2019,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,Automatic,47261,1st,Petrol,MH05-EA4824,11746,601000,0,Goregaon,Mumbai
+Tata,2020,ALTROZ XZ PETROL,Manual,71356,1st,Petrol,MH05-EJ0823,13490,690000,0,Mulund West,Mumbai
+Maruti,2019,Ciaz DELTA 1.5 SHVS MT PETROL,Manual,11136,1st,Petrol,MH02-FE1916,14545,744000,0,Mulund West,Mumbai
+Hyundai,2017,Creta SX PLUS AT 1.6 DIESEL,Automatic,79624,1st,Diesel,MH02-EU2327,19034,1000000,0,Mulund West,Mumbai
+Maruti,2017,Baleno DELTA CVT PETROL 1.2,Automatic,23959,1st,Petrol,MH03-CM8836,10635,544000,0,Goregaon,Mumbai
+Hyundai,2017,Creta SX PLUS 1.6 DIESEL SPECIAL EDITION,Manual,55424,1st,Diesel,MH05-DH1846,17093,898000,0,Goregaon,Mumbai
+Maruti,2018,Baleno ZETA PETROL 1.2,Manual,54530,1st,Petrol,MH43-BK5846,10342,529000,0,Mulund West,Mumbai
+Maruti,2015,Swift VXI,Manual,76928,2nd,Petrol,MH01-BY3310,7859,401999,0,Goregaon,Mumbai
+Hyundai,2016,Elite i20 ASTA 1.2,Manual,62056,3rd,Petrol,MH05-CV0336,9404,480999,0,Goregaon,Mumbai
+Maruti,2014,Celerio VXI,Manual,66046,2nd,Petrol,MH03-BJ8096,6896,310000,0,Mulund West,Mumbai
+Hyundai,2017,Xcent SX 1.2 (O),Manual,35408,1st,Petrol,MH03-CM8842,9462,484000,0,Goregaon,Mumbai
+Volkswagen,2020,Vento HIGHLINE PLUS 1.0L TSI AT,Automatic,89509,1st,Petrol,MH10-DL5181,16997,893000,0,Mulund West,Mumbai
+Hyundai,2017,Elite i20 SPORTZ 1.2,Manual,41718,2nd,Petrol,MH01-CP4587,9306,476000,0,Mulund West,Mumbai
+Honda,2014,City 1.5L I-VTEC V MT,Manual,61455,1st,Petrol,MH03-BS2655,10054,451999,0,Mulund West,Mumbai
+Hyundai,2016,Elite i20 ASTA 1.2,Manual,42817,1st,Petrol,MH03-CK0344,11261,576000,0,Goregaon,Mumbai
+Hyundai,2014,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,37525,1st,Petrol,MH02-DJ7849,7897,355000,0,Mulund West,Mumbai
+Honda,2019,Amaze 1.5L I-DTEC V CVT,Automatic,55583,1st,Diesel,MH47-AN1136,14624,748000,0,Mulund West,Mumbai
+Honda,2017,WR-V 1.2L I-VTEC VX MT,Manual,87905,2nd,Petrol,MH43-BK0924,11191,572000,0,Goregaon,Mumbai
+Maruti,2015,Wagon R 1.0 VXI,Manual,30942,2nd,Petrol,MH48-AC5103,6315,323000,0,Mulund West,Mumbai
+Honda,2018,City 1.5L I-VTEC VX,Manual,31998,1st,Petrol,MH04-JV0245,16522,868000,0,Goregaon,Mumbai
+Maruti,2018,Baleno ALPHA CVT PETROL 1.2,Automatic,88152,1st,Petrol,MH01-DB4618,11300,578000,0,Goregaon,Mumbai
+Hyundai,2011,i10 SPORTZ 1.2,Manual,32786,1st,Petrol,MH02-CD1194,10639,225999,0,Goregaon,Mumbai
+Maruti,2017,Dzire VDI AMT,Automatic,36258,2nd,Diesel,MH47-AB0687,12141,621000,0,Goregaon,Mumbai
+Ford,2017,Ecosport TREND 1.5L DIESEL,Manual,38957,1st,Diesel,MH03-CM6409,13177,674000,0,Goregaon,Mumbai
+Maruti,2019,IGNIS DELTA 1.2,Manual,16694,1st,Petrol,MH47-AG7745,9071,463999,0,Goregaon,Mumbai
+Maruti,2020,S PRESSO VXI (O) AMT,Automatic,13440,1st,Petrol,MH47-AU8859,9521,487000,0,Mulund West,Mumbai
+Maruti,2017,Baleno ZETA CVT PETROL 1.2,Automatic,77650,1st,Petrol,MH03-CS3405,10303,527000,0,Goregaon,Mumbai
+Maruti,2016,Ertiga VDI SHVS,Manual,68351,1st,Diesel,MH48-AK6793,13900,711000,0,Seawood,Mumbai
+Maruti,2017,Wagon R 1.0 VXI AMT,Automatic,65156,1st,Petrol,MH47-W0767,7091,363000,0,Seawood,Mumbai
+Volkswagen,2014,Polo HIGHLINE1.2L,Manual,41264,1st,Petrol,MH02-DJ3758,8631,388000,0,Mulund West,Mumbai
+Honda,2015,City 1.5L I-VTEC SV,Manual,61177,2nd,Petrol,MH02-DW1584,9388,480000,0,Goregaon,Mumbai
+Honda,2017,City 1.5L I-VTE V CVT,Manual,68950,1st,Petrol,MH02-EK6760,13157,673000,0,Mulund West,Mumbai
+Honda,2018,City 1.5L I-VTE V CVT,Automatic,63253,2nd,Petrol,MH01-DB4662,13666,699000,0,Mulund West,Mumbai
+Honda,2015,City 1.5L I-VTEC V MT,Manual,73939,2nd,Petrol,MH03-BW7001,8915,455999,0,Goregaon,Mumbai
+Maruti,2018,Ciaz ZETA 1.4 AT PETROL,Automatic,53796,2nd,Petrol,MH02-EU8542,12688,649000,0,Goregaon,Mumbai
+Renault,2017,Duster RXS CVT,Automatic,63627,1st,Petrol,MH03-CS6979,11828,605000,0,Goregaon,Mumbai
+Maruti,2017,Baleno SIGMA PETROL 1.2,Manual,76316,2nd,Petrol,MH47-W2674,8563,438000,0,Mulund West,Mumbai
+Tata,2019,Tiago XZA PLUS PETROL,Automatic,18218,1st,Petrol,MH05-EA7793,11046,565000,0,Goregaon,Mumbai
+Hyundai,2013,i10 MAGNA 1.1,Manual,47502,1st,Petrol,MH48-P4784,6899,262000,0,Mulund West,Mumbai
+Maruti,2017,IGNIS DELTA 1.2,Manual,30176,1st,Petrol,MH47-W6310,8758,448000,0,Mulund West,Mumbai
+Hyundai,2016,Elite i20 ASTA 1.2,Manual,76293,2nd,Petrol,MH04-HF2014,9169,469000,0,Goregaon,Mumbai
+Maruti,2012,Swift Dzire ZXI,Manual,33997,2nd,Petrol,MH05-BL4775,12156,366000,0,Mulund West,Mumbai
+Jeep,2021,Compass SPORT 1.4 PETROL DCT,Automatic,21250,2nd,Petrol,MH47-AY6724,31273,1643000,0,Mulund West,Mumbai
+Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,Automatic,45445,1st,Petrol,MH02-EK4485,17245,906000,0,Goregaon,Mumbai
+Hyundai,2015,Elite i20 SPORTZ 1.2,Manual,30141,2nd,Petrol,MH02-EE0437,8543,437000,0,Mulund West,Mumbai
+Nissan,2021,MAGNITE XV PREMIUM,Manual,47127,1st,Petrol,MH46-BV6745,13685,700000,0,Mulund West,Mumbai
+Hyundai,2018,Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,65001,1st,Petrol,MH46-BE5266,10440,534000,0,Seawood,Mumbai
+Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,Automatic,91055,2nd,Petrol,MH01-CT0876,16712,877999,0,Goregaon,Mumbai
+Tata,2021,Tiago XZA PLUS DUAL TONE PETROL,Automatic,34270,1st,Petrol,MH46-BV5627,11763,602000,0,Goregaon,Mumbai
+Maruti,2020,New Wagon-R LXI CNG 1.0,Manual,12760,2nd,CNG,MH43-BU4536,10283,526000,0,Mulund West,Mumbai
+Tata,2021,Tiago XZA PLUS PETROL,Automatic,42450,2nd,Petrol,MH04-KR3055,10616,543000,0,Seawood,Mumbai
+Hyundai,2014,Elite i20 SPORTZ 1.2,Manual,55182,1st,Petrol,MH01-BU8160,9743,438000,0,Goregaon,Mumbai
+Maruti,2015,Celerio VXI CNG,Manual,52929,1st,CNG,MH43-AT2593,10086,383000,0,Mulund West,Mumbai
+Tata,2022,ALTROZ XZA PLUS,Automatic,2973,1st,Petrol,MH02-FR9330,17797,935000,0,Goregaon,Mumbai
+Hyundai,2017,New Elantra 2.0 SX(O) AT PETROL,Automatic,76064,2nd,Petrol,MH47-W0852,15855,833000,0,Mulund West,Mumbai
+Mahindra,2017,XUV500 W10 AT,Automatic,84784,1st,Diesel,MH02-EP0452,19872,1044000,0,Mulund West,Mumbai
+Mahindra,2019,XUV300 W8 (O) 1.2 PETROL,Manual,69490,1st,Petrol,MH05-EA4132,15073,771000,0,Mulund West,Mumbai
+Honda,2017,City 1.5L I-VTE V CVT,Automatic,42660,1st,Petrol,MH01-CT6489,14272,730000,0,Seawood,Mumbai
+Honda,2021,City 1.5L I-VTEC ZX CVT,Automatic,22827,1st,Petrol,MH02-FN5574,25506,1340000,0,Mulund West,Mumbai
+Maruti,2017,Ertiga ZDI + SHVS,Manual,94511,1st,Diesel,MH46-BA3491,16951,891000,0,Mulund West,Mumbai
+Mahindra,2019,XUV300 W8 1.5 DIESEL,Manual,80839,1st,Diesel,MH02-FE1504,15760,827999,0,Seawood,Mumbai
+Hyundai,2019,New Elantra 2.0 SX(O) AT PETROL,Automatic,43333,2nd,Petrol,MH47-AG7524,21451,1127000,0,Mulund West,Mumbai
+Maruti,2021,New Wagon-R VXI (O) 1.2,Manual,19528,2nd,Petrol,MH03-DU6748,10518,538000,0,Goregaon,Mumbai
+Hyundai,2017,Creta E PLUS 1.6 PETROL,Manual,89434,1st,Petrol,MH01-CT1385,13724,702000,0,Goregaon,Mumbai
+Hyundai,2013,i10 MAGNA 1.1,Manual,32961,2nd,Petrol,MH02-CW5750,6294,239000,0,Goregaon,Mumbai
+Hyundai,2015,Xcent SX 1.2,Manual,64152,1st,Petrol,MH43-AT3716,7898,404000,0,Goregaon,Mumbai
+Maruti,2016,Baleno DELTA PETROL 1.2,Manual,62766,2nd,CNG,MH05-CV5875,10922,491000,0,Goregaon,Mumbai
+Maruti,2022,S PRESSO VXI (O) CNG,Manual,31772,1st,CNG,MH04-KW8084,9756,499000,0,Mulund West,Mumbai
+Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,Automatic,86283,1st,Petrol,MH01-CP7778,16027,842000,0,Mulund West,Mumbai
+Hyundai,2015,Creta S 1.6 PETROL,Manual,76643,2nd,Petrol,MH04-GZ4354,13001,665000,0,Goregaon,Mumbai
+Hyundai,2015,Xcent S 1.2,Manual,65203,2nd,Petrol,MH46-AL6102,7273,372000,0,Goregaon,Mumbai
+Hyundai,2018,NEW SANTRO SPORTZ CNG,Manual,91265,1st,CNG,MH04-JV1633,9208,471000,0,Mulund West,Mumbai
+MG,2019,HECTOR SHARP 1.5 DCT PETROL,Automatic,18601,2nd,Petrol,MH43-BN7284,27580,1449000,0,Mulund West,Mumbai
+Ford,2018,FREESTYLE TITANIUM 1.2 PETROL,Manual,28974,2nd,Petrol,MH12-QY1273,9834,503000,0,Goregaon,Mumbai
+Maruti,2018,Ciaz ZETA 1.5 SHVS MT PETROL,Manual,18001,1st,Petrol,MH02-FE3860,14467,740000,0,Mulund West,Mumbai
+Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,42241,1st,Petrol,MH03-CS0650,8152,417000,0,Mulund West,Mumbai
+Toyota,2018,Corolla Altis VL CVT PETROL,Automatic,74221,1st,Petrol,MH46-BE4986,18958,996000,0,Mulund West,Mumbai
+Toyota,2017,Corolla Altis VL CVT PETROL,Automatic,56591,1st,Petrol,MH02-EP5370,20024,1052000,0,Mulund West,Mumbai
+Maruti,2018,Celerio VXI CNG,Manual,74536,1st,CNG,MH04-JM6120,8192,419000,0,Goregaon,Mumbai
+Hyundai,2013,i10 MAGNA 1.2,Manual,69725,2nd,Petrol,MH12-JZ8402,7084,269000,0,Goregaon,Mumbai
+Hyundai,2011,i20 SPORTZ (O) 1.2,Manual,72888,1st,Petrol,MH01-AX6413,12804,272000,0,Seawood,Mumbai
+Maruti,2020,Ciaz ALPHA AT 1.5 SHVS PETROL,Automatic,27994,1st,Petrol,MH02-FJ2448,16103,846000,0,Mulund West,Mumbai
+Maruti,2019,S Cross ZETA 1.3,Manual,50117,1st,Diesel,MH48-BH7449,15855,833000,0,Goregaon,Mumbai
+Maruti,2017,Swift VXI,Manual,57535,2nd,Petrol,MH04-HX0624,9619,492000,0,Goregaon,Mumbai
+Maruti,2014,Wagon R 1.0 LXI CNG,Manual,78327,2nd,CNG,MH04-GM3840,10695,322000,0,Mulund West,Mumbai
+Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,Manual,28444,1st,CNG,MH46-CE8606,13666,699000,0,Goregaon,Mumbai
+Hyundai,2019,Creta SX AT 1.6 PETROL,Automatic,27780,1st,Petrol,MH47-AG7969,21052,1106000,0,Seawood,Mumbai
+Maruti,2017,Baleno ZETA PETROL 1.2,Manual,53969,1st,Petrol,MH02-EP0824,9990,511000,0,Goregaon,Mumbai
+Ford,2016,Ecosport TITANIUM 1.5L PETROL AT,Automatic,41949,1st,Petrol,MH04-HM6818,11691,598000,0,Mulund West,Mumbai
+Honda,2017,WR-V 1.5L I-DTEC S MT,Manual,71092,1st,Diesel,MH03-CM5398,12825,656000,0,Goregaon,Mumbai
+Hyundai,2014,Elite i20 SPORTZ 1.2,Manual,60620,1st,Petrol,MH02-DS7361,9657,434000,0,Goregaon,Mumbai
+Hyundai,2016,Elite i20 ASTA 1.2,Manual,82023,1st,Petrol,MH47-K2628,10147,519000,0,Goregaon,Mumbai
+Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,Automatic,60410,2nd,Petrol,MH04-HX0741,16122,847000,0,Mulund West,Mumbai
+Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,Automatic,56441,1st,Petrol,MH04-HU1036,17778,934000,0,Mulund West,Mumbai
+Hyundai,2018,New Elantra 1.6 SX (O) AT DIESEL,Automatic,48054,2nd,Diesel,MH02-EZ0018,20690,1087000,0,Mulund West,Mumbai
+Maruti,2018,Baleno ALPHA CVT PETROL 1.2,Automatic,33155,2nd,Petrol,MH02-EZ6839,12258,627000,0,Mulund West,Mumbai
+Tata,2022,TIGOR XZ PLUS CNG,Manual,18323,2nd,CNG,MH46-CE8913,14663,750000,0,Seawood,Mumbai
+Maruti,2014,Swift Dzire ZDI,Manual,113423,2nd,Diesel,MH12-KY4406,13694,520000,0,Mulund West,Mumbai
+Hyundai,2012,i10 SPORTZ 1.2,Manual,65054,3rd,Petrol,MH03-BE8865,6809,204999,0,Mulund West,Mumbai
+Tata,2023,TIGOR XZA PLUS PETROL,Automatic,8683,1st,Petrol,MH47-BK4125,13900,711000,0,Mulund West,Mumbai
+Volkswagen,2016,Ameo HIGHLINE1.2L,Manual,10117,2nd,Petrol,MH01-CP4081,8915,455999,0,Mulund West,Mumbai
+Maruti,2021,Celerio ZXI (O),Manual,22897,1st,Petrol,MH06-CD9192,10088,516000,0,Seawood,Mumbai
+Maruti,2022,S PRESSO VXI+,Manual,10815,1st,Petrol,MH03-EB0515,9716,497000,0,Goregaon,Mumbai
+Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,Automatic,57440,3rd,Petrol,MH01-CH5969,15582,797000,0,Goregaon,Mumbai
+Renault,2019,TRIBER RXE MT,Manual,5733,2nd,Petrol,MH02-FJ1432,10049,513999,0,Goregaon,Mumbai
+Ford,2018,Ecosport TREND 1.5L DIESEL,Manual,87593,2nd,Diesel,MH43-BK8218,13451,688000,0,Mulund West,Mumbai
+Maruti,2014,Ertiga VXI CNG,Manual,67046,1st,CNG,MH02-DS9305,20825,627000,0,Mulund West,Mumbai
+Hyundai,2018,Creta SX AT 1.6 PETROL,Manual,57206,1st,Petrol,MH01-DB6345,20252,1064000,0,Goregaon,Mumbai
+Maruti,2017,Swift VXI,Manual,47322,1st,Petrol,MH05-DH0113,10107,517000,0,Goregaon,Mumbai
+Maruti,2019,New Wagon-R LXI CNG 1.0,Manual,66684,2nd,CNG,MH43-BU0271,9691,496000,0,Goregaon,Mumbai
+Tata,2022,NEXON XZ PLUS PETROL,Manual,18598,1st,Petrol,MH16-CY4574,17841,936999,0,Mulund West,Mumbai
+Maruti,2013,Swift Dzire ZDI,Manual,120050,1st,Diesel,MH01-BG6796,15179,457000,0,Mulund West,Mumbai
+Honda,2015,City 1.5L I-VTEC VX,Manual,75533,1st,Petrol,MH02-DZ4140,10948,560000,0,Goregaon,Mumbai
+Tata,2019,NEXON XZA PLUS DIESEL,Automatic,99105,2nd,Diesel,MH04-JV4655,15779,828999,0,Goregaon,Mumbai
+Maruti,2021,New Wagon-R LXI CNG 1.0,Manual,23233,1st,CNG,MH03-DU6610,11613,594000,0,Mulund West,Mumbai
+Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,38780,1st,Petrol,MH47-AB8089,9202,471000,0,Mulund West,Mumbai
+Maruti,2022,New Wagon-R ZXI 1.2,Manual,20987,1st,Petrol,MH05-FB3370,12199,624000,0,Seawood,Mumbai
+Toyota,2019,Glanza G CVT,Automatic,16870,2nd,Petrol,MH47-AN8175,13275,679000,0,Seawood,Mumbai
+Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,Automatic,73228,1st,Petrol,MH02-EK3669,15265,802000,0,Mulund West,Mumbai
+Maruti,2022,BREZZA ZXI SMART HYBRID DUAL TONE,Manual,11537,1st,Petrol,MH04-LH1304,22194,1166000,0,Mulund West,Mumbai
+Honda,2019,Jazz 1.2L I-VTEC VX CVT,Automatic,46371,1st,Petrol,MH01-DK8145,13451,688000,0,Goregaon,Mumbai
+Hyundai,2016,Creta S 1.6 PETROL,Manual,45568,1st,Petrol,MH02-EE8135,13626,697000,0,Goregaon,Mumbai
+Maruti,2017,Baleno ALPHA CVT PETROL 1.2,Automatic,46651,2nd,Petrol,MH03-CS0894,10498,537000,0,Mulund West,Mumbai
+Maruti,2017,IGNIS DELTA 1.2 AMT,Automatic,48719,2nd,Petrol,MH01-CP7337,8974,459000,0,Goregaon,Mumbai
+Hyundai,2013,i10 MAGNA 1.1,Manual,34862,2nd,Petrol,MH02-CV9601,6373,242000,0,Goregaon,Mumbai
+Honda,2017,City 1.5L I-VTE V CVT,Automatic,99738,1st,Petrol,MH46-BA7525,13802,706000,0,Mulund West,Mumbai
+Hyundai,2016,Creta SX PLUS AT 1.6 DIESEL,Automatic,70630,2nd,Diesel,MH04-HM1217,16388,861000,0,Mulund West,Mumbai
+Hyundai,2017,Grand i10 ASTA 1.2 KAPPA VTVT,Manual,44823,1st,Petrol,MH03-CM9836,9032,462000,0,Goregaon,Mumbai
+Hyundai,2016,Elite i20 SPORTZ 1.2,Manual,73601,2nd,Petrol,MH47-Q3579,8895,455000,0,Mulund West,Mumbai
+Hyundai,2014,i10 SPORTZ 1.1,Manual,21258,1st,Petrol,MH05-CH3253,7185,323000,0,Mulund West,Mumbai
+Maruti,2014,Swift VXI,Manual,70860,2nd,Petrol,MH02-DN9388,7986,359000,0,Mulund West,Mumbai
+Hyundai,2011,i20 SPORTZ 1.2,Manual,122248,1st,Petrol,MH03-AZ5373,11298,240000,0,Mulund West,Mumbai
+Mahindra,2021,XUV300 W6 1.5 DIESEL AMT,Automatic,38524,1st,Diesel,MH47-AY1705,17664,927999,0,Goregaon,Mumbai
+Maruti,2017,Wagon R 1.0 LXI CNG,Manual,62850,3rd,CNG,MH05-DH1011,7351,376000,0,Goregaon,Mumbai
+Toyota,2011,Etios Liva G,Manual,75420,1st,Petrol,MH05-AX3915,13086,278000,0,Goregaon,Mumbai
+Maruti,2013,Wagon R Stingray VXI,Manual,35954,1st,Petrol,MH04-GJ2263,8361,317000,0,Goregaon,Mumbai
+Tata,2020,ALTROZ XZ PETROL,Manual,27102,1st,Petrol,MH47-AU5357,13978,715000,0,Mulund West,Mumbai
+Hyundai,2016,Elite i20 SPORTZ 1.2,Manual,52544,3rd,Petrol,MH04-HU1206,8555,438000,0,Goregaon,Mumbai
+Maruti,2019,S PRESSO VXI+,Manual,8458,1st,Petrol,MH46-BQ3206,8524,436000,0,Goregaon,Mumbai
+Maruti,2016,Ertiga VDI SHVS,Manual,83215,1st,Diesel,MH04-HF9335,13767,704000,0,Mulund West,Mumbai
+Maruti,2021,New Wagon-R LXI CNG (O) 1.0,Manual,50418,1st,CNG,MH12-TD9581,11828,605000,0,Goregaon,Mumbai
+Renault,2019,TRIBER RXZ,Manual,56210,1st,Petrol,MH43-BU0716,12512,640000,0,Seawood,Mumbai
+Maruti,2017,IGNIS DELTA 1.2,Manual,56219,2nd,CNG,MH12-PH6801,8602,440000,0,Goregaon,Mumbai
+Maruti,2022,New Wagon-R LXI 1.0,Manual,31378,1st,Petrol,MH48-CC6624,11261,576000,0,Mulund West,Mumbai
+Hyundai,2018,Creta SX AT 1.6 PETROL,Automatic,50441,1st,Petrol,MH48-BH0006,20176,1060000,0,Goregaon,Mumbai
+Mahindra,2021,XUV300 W6 1.2 PETROL AMT,Automatic,17985,1st,Petrol,MH03-DU9494,17074,897000,0,Mulund West,Mumbai
+Tata,2019,NEXON XZA PLUS DIESEL,Automatic,51506,2nd,Diesel,MH04-KD4586,16445,864000,0,Goregaon,Mumbai
+Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,Automatic,90305,1st,Petrol,MH46-BA5115,16350,859000,0,Goregaon,Mumbai
+Toyota,2017,Corolla Altis VL CVT PETROL,Automatic,61520,1st,Petrol,MH47-AB1659,20195,1061000,0,Mulund West,Mumbai
+Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,45213,1st,Petrol,MH05-DS4309,9228,472000,0,Mulund West,Mumbai
+Maruti,2017,Celerio VXI CNG,Manual,49606,1st,CNG,MH05-DH0982,8387,429000,0,Seawood,Mumbai
+Skoda,2018,Rapid STYLE 1.5 TDI AT,Automatic,119830,1st,Diesel,MH47-AG9110,15800,710000,0,Mulund West,Mumbai
+Honda,2017,Jazz 1.2L I-VTEC SV,Manual,25602,2nd,Petrol,MH03-CS5463,9228,472000,0,Goregaon,Mumbai
+Hyundai,2022,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,Automatic,16539,1st,Petrol,MH01-DX8764,15406,788000,0,Goregaon,Mumbai
+Hyundai,2011,i10 SPORTZ 1.2,Manual,30375,3rd,Petrol,MH03-AZ4909,10497,223000,0,Goregaon,Mumbai
+Maruti,2023,BREZZA ZXI SMART HYBRID,Manual,10117,1st,Petrol,MH47-BK5276,23907,1256000,0,Goregaon,Mumbai
+Skoda,2013,Rapid ACTIVE 1.6 MPI MT PLUS,Manual,90993,1st,Petrol,MH02-DG8274,9533,362000,0,Mulund West,Mumbai
+Maruti,2012,Wagon R 1.0 VXI,Manual,43569,2nd,Petrol,MH02-CL4274,8281,249000,0,Seawood,Mumbai
+Volkswagen,2012,Vento HIGHLINE 1.6 MPI,Manual,93393,1st,Petrol,MH01-BG2582,10595,319000,0,Mulund West,Mumbai
+Hyundai,2019,Creta SX 1.6 PETROL,Manual,70430,2nd,Petrol,MH03-DG2416,16674,876000,0,Goregaon,Mumbai
+Tata,2019,NEXON XZA PLUS PETROL,Automatic,61806,1st,Petrol,MH47-AN2319,15425,789000,0,Mulund West,Mumbai
+Honda,2018,WR-V 1.2L I-VTEC VX MT,Manual,45344,1st,Petrol,MH47-AG7888,12375,633000,0,Seawood,Mumbai
+Hyundai,2017,Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,40049,2nd,Petrol,MH04-JB2917,10147,519000,0,Goregaon,Mumbai
+Tata,2019,NEXON XZA PLUS PETROL,Automatic,18707,1st,Petrol,MH01-DE5189,16202,851000,0,Goregaon,Mumbai
+Maruti,2020,S PRESSO VXI CNG,Manual,66992,1st,CNG,MH04-KL4761,8250,422000,0,Mulund West,Mumbai
+Hyundai,2013,i10 SPORTZ 1.2,Manual,72416,1st,Petrol,MH02-CW6568,7373,280000,0,Goregaon,Mumbai
+Honda,2015,City 1.5L I-VTEC SV,Manual,41887,2nd,Petrol,MH05-CH4903,10068,515000,0,Goregaon,Mumbai
+Hyundai,2014,Xcent S 1.2,Manual,42400,1st,Petrol,MH41-V5956,9076,408000,0,Seawood,Mumbai
+Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,32331,1st,Petrol,MH01-DE2414,9795,501000,0,Goregaon,Mumbai
+Maruti,2021,New Wagon-R LXI CNG 1.0,Manual,30981,1st,CNG,MH05-EJ9858,11887,608000,0,Mulund West,Mumbai
+Hyundai,2015,i10 MAGNA 1.1,Manual,55760,2nd,Petrol,MH02-DW3371,6172,316000,0,Seawood,Mumbai
+Maruti,2019,IGNIS ALPHA 1.2,Manual,22343,2nd,Petrol,MH01-DE9245,10577,541000,0,Goregaon,Mumbai
+Hyundai,2017,Creta E PLUS 1.6 PETROL,Manual,101128,2nd,Petrol,MH01-CP8949,15905,715000,0,Mulund West,Mumbai
+Tata,2018,NEXON XZA PLUS DIESEL DUAL TONE,Automatic,104792,1st,Diesel,MH48-AW9583,15794,710000,0,Mulund West,Mumbai
+Maruti,2022,New Wagon-R ZXI 1.2,Manual,4466,1st,Petrol,MH47-BB6241,12821,656000,0,Goregaon,Mumbai
+Volkswagen,2018,Vento HIGHLINE PLUS 1.5 AT 16 ALLOY,Automatic,70205,2nd,Diesel,MH02-EZ6562,15303,803999,0,Goregaon,Mumbai
+Maruti,2017,Wagon R 1.0 VXI AMT,Automatic,78285,1st,Petrol,MH47-Q6548,7622,390000,0,Goregaon,Mumbai
+Honda,2015,Jazz 1.2L I-VTEC V AT,Automatic,63245,1st,Petrol,MH04-GZ5404,9697,496000,0,Mulund West,Mumbai
+Jeep,2018,Compass LONGITUDE 2.0 DIESEL,Manual,44734,2nd,Diesel,MH02-EU2730,21185,1113000,0,Mulund West,Mumbai
+Maruti,2015,Wagon R 1.0 LXI CNG,Manual,64970,1st,CNG,MH12-MB5538,9428,358000,0,Seawood,Mumbai
+Volkswagen,2016,Ameo HIGHLINE1.2L,Manual,35143,1st,Petrol,MH04-HU1583,10029,513000,0,Goregaon,Mumbai
+Tata,2022,TIGOR XZ PLUS CNG,Manual,5837,1st,CNG,MH05-FB2647,15760,827999,0,Goregaon,Mumbai
+Jeep,2019,Compass LIMITED PLUS PETROL AT,Automatic,36921,1st,Petrol,MH03-DG5007,28589,1502000,0,Goregaon,Mumbai
+Hyundai,2017,Creta E PLUS 1.6 PETROL,Manual,75175,1st,Petrol,MH04-HX5696,14897,762000,0,Mulund West,Mumbai
+Hyundai,2017,Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,25723,1st,Petrol,MH47-W8580,10948,560000,0,Mulund West,Mumbai
+Mahindra,2019,XUV300 W8 1.5 DIESEL,Manual,51938,1st,Diesel,MH02-FE2491,16826,884000,0,Mulund West,Mumbai
+Toyota,2019,Glanza G CVT,Automatic,21695,1st,Petrol,MH47-AN6082,14233,728000,0,Seawood,Mumbai
+Jeep,2018,Compass LIMITED (O) 1.4 PETROL AT,Automatic,82809,1st,Petrol,MH02-EZ2906,21128,1110000,0,Goregaon,Mumbai
+Hyundai,2019,NEW SANTRO SPORTZ CNG,Manual,70159,1st,CNG,MH04-KD0281,9795,501000,0,Seawood,Mumbai
+Maruti,2019,Ciaz ALPHA AT 1.5 SHVS PETROL,Automatic,66269,2nd,Petrol,MH05-EA1393,13881,710000,0,Goregaon,Mumbai
+Hyundai,2019,NEW SANTRO SPORTZ CNG,Manual,73820,1st,CNG,MH05-DS9073,10010,512000,0,Mulund West,Mumbai
+Tata,2021,TIGOR XZA PLUS PETROL,Automatic,39046,1st,Petrol,MH04-KR4691,13763,704000,0,Goregaon,Mumbai
+Mahindra,2022,XUV300 W6 1.5 DIESEL AMT,Automatic,11461,1st,Diesel,MH05-FB3619,21242,1116000,0,Mulund West,Mumbai
+Maruti,2014,Celerio VXI AMT,Automatic,76296,1st,Petrol,MH04-GJ7034,7207,324000,0,Mulund West,Mumbai
+Maruti,2022,New Wagon-R LXI CNG 1.0,Manual,33292,1st,CNG,MH47-BB9573,12493,639000,0,Goregaon,Mumbai
+Maruti,2020,Ciaz ALPHA AT 1.5 SHVS PETROL,Automatic,31021,1st,Petrol,MH47-BF4533,17150,901000,0,Mulund West,Mumbai
+Maruti,2021,Ciaz DELTA AT 1.5 SHVS PETROL,Automatic,29291,1st,Petrol,MH04-KR5936,17188,902999,0,Seawood,Mumbai
+Toyota,2020,Glanza V CVT,Automatic,56916,1st,Petrol,MH47-AN8831,14213,727000,0,Goregaon,Mumbai
+MG,2019,HECTOR SHARP 1.5 DCT PETROL,Automatic,45878,1st,Petrol,MH01-DK7299,27466,1443000,0,Seawood,Mumbai
+Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,Manual,41051,1st,Petrol,MH47-W3186,8387,429000,0,Goregaon,Mumbai
+Maruti,2019,New Wagon-R VXI 1.2,Manual,37678,1st,Petrol,MH47-AN3125,9599,491000,0,Mulund West,Mumbai
+Maruti,2019,Ciaz DELTA AT 1.5 SHVS PETROL,Automatic,54408,2nd,Petrol,MH47-AG8212,13587,695000,0,Mulund West,Mumbai
+Maruti,2012,Swift Dzire ZXI,Manual,60719,1st,Petrol,MH01-BF4257,12190,367000,0,Seawood,Mumbai
+Maruti,2015,Wagon R 1.0 LXI CNG,Manual,81560,1st,CNG,MH02-DZ0149,9270,352000,0,Seawood,Mumbai
+Maruti,2021,Ciaz ALPHA AT 1.5 SHVS PETROL,Automatic,33706,1st,Petrol,MH03-DK9751,18768,986000,0,Goregaon,Mumbai
+Nissan,2013,Micra XV CVT,Automatic,36761,1st,Petrol,MH02-CZ8562,9401,357000,0,Goregaon,Mumbai
+Maruti,2019,S PRESSO VXI+,Manual,4296,1st,Petrol,MH46-BQ4733,8680,444000,0,Mulund West,Mumbai
+Hyundai,2014,Grand i10 ASTA 1.2 KAPPA VTVT,Manual,35272,1st,Petrol,MH01-BU6737,9031,405999,0,Goregaon,Mumbai
+Maruti,2020,S PRESSO VXI CNG,Manual,26321,1st,CNG,MH05-EJ1359,8954,458000,0,Goregaon,Mumbai
+Hyundai,2012,i10 SPORTZ 1.2,Manual,118765,1st,Petrol,MH05-BL2011,8204,247000,0,Mulund West,Mumbai
+Toyota,2019,Glanza V CVT,Automatic,15816,1st,Petrol,MH47-AN4945,15503,793000,0,Goregaon,Mumbai
+Hyundai,2017,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,21635,1st,Petrol,MH43-BK1841,9247,473000,0,Goregaon,Mumbai
+Jeep,2018,Compass LIMITED (O) 1.4 PETROL AT,Automatic,38696,2nd,Petrol,MH03-DA0504,25068,1317000,0,Goregaon,Mumbai
+Maruti,2020,S PRESSO VXI PLUS AMT,Automatic,34771,1st,Petrol,MH47-AU4208,8778,449000,0,Mulund West,Mumbai
+Maruti,2014,Wagon R 1.0 LXI CNG,Manual,83278,1st,CNG,MH02-DJ9285,10810,325000,0,Mulund West,Mumbai
+Honda,2019,WR-V 1.2L I-VTEC VX MT,Manual,70985,1st,Petrol,MH47-AG9733,13333,682000,0,Mulund West,Mumbai
+Toyota,2018,Corolla Altis VL CVT PETROL,Automatic,77581,2nd,Petrol,MH01-DB3533,19529,1026000,0,Mulund West,Mumbai
+Maruti,2020,Ciaz ALPHA AT 1.5 SHVS PETROL,Automatic,23697,1st,Petrol,MH02-FJ3525,17416,915000,0,Goregaon,Mumbai
+Skoda,2013,Rapid AMBITION 1.6 TDI CR MT PLUS,Manual,81468,1st,Diesel,MH02-DG1746,14681,442000,0,Mulund West,Mumbai
+Maruti,2021,Ciaz DELTA AT 1.5 SHVS PETROL,Automatic,16992,1st,Petrol,MH04-KR3239,18425,968000,0,Seawood,Mumbai
+Maruti,2015,Wagon R 1.0 LXI CNG,Manual,58961,1st,CNG,MH05-CM2848,9796,372000,0,Mulund West,Mumbai
+Hyundai,2020,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,Automatic,11665,1st,Petrol,MH01-DP2693,14213,727000,0,Mulund West,Mumbai
+Mahindra,2021,XUV300 W8 (O) 1.2 PETROL AMT,Automatic,41278,1st,Petrol,MH03-DU1760,20957,1101000,0,Mulund West,Mumbai
+Mahindra,2022,XUV300 W8 (O) 1.2 PETROL AMT,Automatic,20405,1st,Petrol,MH04-KW9073,21915,1151000,0,Goregaon,Mumbai
+Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,20257,2nd,Petrol,MH43-BN3791,10088,516000,0,Mulund West,Mumbai
+Maruti,2014,Alto 800 LXI,Manual,40797,1st,Petrol,MH02-DS6160,5116,229999,0,Goregaon,Mumbai
+Hyundai,2016,Creta SX PLUS 1.6 PETROL,Manual,69147,1st,Petrol,MH01-CH6341,13998,716000,0,Goregaon,Mumbai
+Maruti,2021,New Wagon-R LXI CNG 1.0,Manual,13032,1st,CNG,MH05-EQ3470,12297,629000,0,Mulund West,Mumbai
+KIA,2022,SELTOS HTK PLUS 1.5 IMT,Manual,15485,2nd,Petrol,MH02-FR4672,22041,1158000,0,Mulund West,Mumbai
+Tata,2019,Harrier XM 2.0L KRYOTEC,Manual,44103,2nd,Diesel,MH05-EA5695,20290,1066000,0,Mulund West,Mumbai
+Maruti,2015,Wagon R 1.0 LXI CNG,Manual,11847,1st,CNG,MH03-BS9856,8901,338000,0,Goregaon,Mumbai
+KIA,2020,SONET GTX PLUS 1.0 IMT,Manual,48448,1st,Petrol,MH47-AU4591,18520,973000,0,Mulund West,Mumbai
+MG,2021,HECTOR SHARP 1.5 DCT PETROL,Automatic,20465,1st,Petrol,MH47-AY6976,28037,1473000,0,Goregaon,Mumbai
+Jeep,2017,Compass LIMITED (O) 2.0 DIESEL,Manual,99924,1st,Diesel,MH04-HX8985,19091,1002999,0,Mulund West,Mumbai
+Tata,2019,Harrier XZ 2.0L DUAL TONE,Manual,32810,1st,Diesel,MH12-RT7549,26702,1403000,0,Goregaon,Mumbai
+Hyundai,2020,AURA SX PLUS 1.2 AMT CRDI,Manual,58033,2nd,Diesel,MH05-EA8831,13372,684000,0,Goregaon,Mumbai
+Maruti,2015,Celerio VXI AMT,Automatic,73014,2nd,Petrol,MH02-DW5830,6530,334000,0,Goregaon,Mumbai
+Volkswagen,2017,Ameo HIGHLINE1.2L PLUS 16 ALLOY,Manual,47924,1st,Petrol,MH01-DB1182,8915,455999,0,Seawood,Mumbai
+Maruti,2016,Baleno DELTA CVT PETROL 1.2,Automatic,33929,1st,Petrol,MH01-CD8464,10498,537000,0,Mulund West,Mumbai
+Honda,2015,Jazz 1.2L I-VTEC V AT,Automatic,12854,1st,Petrol,MH01-CD3249,9462,484000,0,Mulund West,Mumbai
+Maruti,2023,Dzire ZXI Plus AMT,Automatic,12473,1st,Petrol,MH02-FY1811,16084,844999,0,Goregaon,Mumbai
+Maruti,2019,S Cross ZETA 1.3,Manual,60610,1st,Diesel,MH03-DG7572,15307,803999,0,Goregaon,Mumbai
+Hyundai,2014,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,56392,1st,Petrol,MH02-DN2418,7674,345000,0,Mulund West,Mumbai
+Honda,2017,WR-V 1.2L I-VTEC VX MT,Manual,23037,1st,Petrol,MH02-EP7252,12356,632000,0,Mulund West,Mumbai
+Maruti,2016,Baleno DELTA CVT PETROL 1.2,Automatic,48814,1st,Petrol,MH02-EK1912,9853,504000,0,Goregaon,Mumbai
+Maruti,2018,Baleno ZETA CVT PETROL 1.2,Automatic,29002,2nd,Petrol,MH02-EZ5374,11065,566000,0,Mulund West,Mumbai
+Maruti,2020,New Wagon-R ZXI 1.2 AMT,Automatic,24495,1st,Petrol,MH02-FJ3914,10733,549000,0,Seawood,Mumbai
+Maruti,2012,Swift VXI,Manual,15045,1st,Petrol,MH03-BE4271,11226,338000,0,Mulund West,Mumbai
+Maruti,2015,Baleno ZETA DIESEL 1.3,Manual,56687,1st,Diesel,MH04-GZ9727,13169,592000,0,Mulund West,Mumbai
+Volkswagen,2015,Polo HIGHLINE1.2L,Manual,25818,3rd,Petrol,MH01-BY1910,7019,359000,0,Mulund West,Mumbai
+Honda,2015,Jazz 1.2L I-VTEC V,Manual,89508,1st,Petrol,MH43-AT5477,8055,412000,0,Goregaon,Mumbai
+Renault,2020,Kwid RXT 1.0 (O),Manual,46581,1st,Petrol,MH47-AU3928,8583,438999,0,Goregaon,Mumbai
+Honda,2014,Brio VX AT,Automatic,69196,2nd,Petrol,MH03-BS4158,7808,351000,0,Goregaon,Mumbai
+Hyundai,2016,Creta BASE 1.6 PETROL,Manual,53853,1st,Petrol,MH03-CB4217,13196,675000,0,Goregaon,Mumbai
+Maruti,2017,Celerio VXI CNG,Manual,79682,1st,CNG,MH46-BA6336,8270,423000,0,Goregaon,Mumbai
+Honda,2011,City 1.5L I-VTEC V AT,Automatic,65393,2nd,Petrol,MH02-CD2141,12992,276000,0,Mulund West,Mumbai
+Hyundai,2014,Grand i10 ASTA AT 1.2 KAPPA VTVT,Automatic,59799,2nd,Petrol,MH02-DJ9891,7875,354000,0,Mulund West,Mumbai
+Honda,2013,Brio S MT,Manual,49834,1st,Petrol,MH02-CW6729,7373,280000,0,Goregaon,Mumbai
+Volkswagen,2016,Polo GT TSI AT,Automatic,15450,2nd,Petrol,MH01-CH3482,11887,608000,0,Mulund West,Mumbai
+Maruti,2018,Swift VDI AMT,Automatic,69332,1st,Diesel,MH43-BN8216,12297,629000,0,Mulund West,Mumbai
+Volkswagen,2015,Polo GT TSI AT,Automatic,54590,1st,Petrol,MH02-DW9309,11105,568000,0,Seawood,Mumbai
+Tata,2020,NEXON XM SUNROOF PETROL,Manual,27627,1st,Petrol,MH04-KL5969,15093,772000,0,Goregaon,Mumbai
+Ford,2018,Ecosport TITANIUM 1.5L PETROL,Manual,34481,2nd,Petrol,MH05-DS1018,11222,574000,0,Goregaon,Mumbai
+Maruti,2021,New Wagon-R LXI CNG (O) 1.0,Manual,39613,1st,CNG,MH43-BY9261,12180,623000,0,Seawood,Mumbai
+Hyundai,2013,i20 SPORTZ 1.2,Manual,79768,1st,Petrol,MH03-BJ5792,8163,310000,0,Mulund West,Mumbai
+Hyundai,2013,i10 SPORTZ 1.2 AT,Automatic,28452,1st,Petrol,MH01-BG4717,8479,322000,0,Mulund West,Mumbai
+Hyundai,2016,Creta S 1.6 PETROL,Manual,92165,1st,Petrol,MH02-EE9272,13451,688000,0,Goregaon,Mumbai
+Honda,2019,Amaze 1.2L I-VTEC VX,Manual,57072,1st,Petrol,MH02-FE8337,11144,570000,0,Seawood,Mumbai
+Hyundai,2014,Elite i20 SPORTZ 1.4 CRDI,Manual,55660,1st,Diesel,MH02-DN7785,13246,503000,0,Goregaon,Mumbai
+Hyundai,2018,i20 Active 1.2 SX,Manual,78963,1st,Petrol,MH02-EU8435,11046,565000,0,Goregaon,Mumbai
+Renault,2015,Kwid RXL,Manual,16816,2nd,Petrol,MH02-DZ7980,4438,227000,0,Seawood,Mumbai
+Hyundai,2018,Grand i10 ASTA 1.2 KAPPA VTVT,Manual,16777,1st,Petrol,MH04-JM0388,9943,509000,0,Mulund West,Mumbai
+Maruti,2022,XL6 ZETA MT,Manual,9626,1st,Petrol,MH48-CC6497,19872,1044000,0,Mulund West,Mumbai
+Maruti,2023,Swift VXI,Manual,9424,1st,Petrol,MH46-CH8335,13816,707000,0,Goregaon,Mumbai
+Volkswagen,2013,Polo HIGHLINE1.2L,Manual,34416,1st,Petrol,MH01-BK5332,10007,380000,0,Seawood,Mumbai
+Hyundai,2019,Elite i20 ASTA 1.2 CVT,Automatic,25590,2nd,Petrol,MH02-FE0827,12086,618000,0,Mulund West,Mumbai
+Honda,2015,Brio VX MT,Manual,14489,2nd,Petrol,MH01-CD5422,6960,356000,0,Seawood,Mumbai
+Maruti,2016,Vitara Brezza ZDI PLUS,Manual,85156,2nd,Diesel,MH04-HL0083,12805,655000,0,Mulund West,Mumbai
+Maruti,2015,Celerio VXI,Manual,51010,1st,Petrol,MH47-A9365,5924,303000,0,Mulund West,Mumbai
+Maruti,2013,Alto 800 LXI CNG,Manual,92492,2nd,CNG,MH02-CZ5255,8662,184000,0,Seawood,Mumbai
+Maruti,2018,Dzire VXI AMT,Automatic,24209,1st,Petrol,MH01-DB0136,11261,576000,0,Goregaon,Mumbai
+Mahindra,2018,TUV300 T6 PLUS,Manual,79816,1st,Diesel,MH03-DA1850,12669,648000,0,Goregaon,Mumbai
+Hyundai,2015,i20 Active 1.2 SX,Manual,70716,1st,Petrol,MH04-GZ5595,8719,446000,0,Mulund West,Mumbai
+Tata,2017,NEXON XZ PLUS PETROL,Manual,37976,1st,Petrol,MH02-EU0750,13079,669000,0,Goregaon,Mumbai
+Maruti,2017,Baleno RS 1.0 PETROL,Manual,87788,1st,Petrol,MH05-DH3180,9501,486000,0,Mulund West,Mumbai
+Hyundai,2017,New Elantra 1.6 SX AT O,Manual,47713,1st,Diesel,MH08-V6111,22632,1189000,0,Goregaon,Mumbai
+Hyundai,2021,Creta SX (O) 1.4 TURBO DCT,Automatic,47162,2nd,Petrol,MH47-AY8383,27466,1443000,0,Goregaon,Mumbai
+Toyota,2014,Etios Liva G,Manual,23674,1st,Petrol,MH01-BK6682,7407,333000,0,Seawood,Mumbai
+Maruti,2017,Baleno ZETA DIESEL 1.3,Manual,34450,1st,Diesel,MH47-W8549,11409,584000,0,Goregaon,Mumbai
+Maruti,2018,Wagon R 1.0 VXI AMT,Manual,34473,2nd,Petrol,MH02-EZ1446,7312,374000,0,Goregaon,Mumbai
+Maruti,2016,Ertiga VXI CNG,Manual,63006,1st,CNG,MH02-EE4541,16065,722000,0,Goregaon,Mumbai
+Tata,2022,PUNCH ACCOMPLISHED AMT,Automatic,8225,1st,Petrol,MH48-CC7194,14057,719000,0,Goregaon,Mumbai
+Hyundai,2018,Elite i20 ASTA 1.4 CRDI (O),Manual,75355,2nd,Diesel,MH03-DA5405,13451,688000,0,Seawood,Mumbai
+Hyundai,2019,Elite i20 MAGNA PLUS 1.2,Manual,25475,1st,Petrol,MH02-FE0014,10850,555000,0,Mulund West,Mumbai
+Hyundai,2016,Elite i20 SPORTZ 1.2,Manual,16301,1st,Petrol,MH02-EK4009,10498,537000,0,Goregaon,Mumbai
+Honda,2016,City 1.5L I-VTEC VX CVT,Automatic,92419,2nd,Petrol,MH01-CD8914,11398,583000,0,Goregaon,Mumbai
+Hyundai,2019,Grand i10 SPORTZ 1.2 KAPPA VTVT,Manual,20385,1st,Petrol,MH05-EA6289,9357,479000,0,Seawood,Mumbai
+Hyundai,2013,i20 MAGNA (O) 1.2,Manual,96691,1st,Petrol,MH04-GE1248,7876,299000,0,Goregaon,Mumbai
+Renault,2021,TRIBER RXZ AMT DUAL TONE,Automatic,17903,2nd,Petrol,MH14-JR3157,12962,663000,0,Goregaon,Mumbai
+Hyundai,2014,Elite i20 SPORTZ 1.2,Manual,44599,3rd,Petrol,MH02-DS4595,8742,393000,0,Goregaon,Mumbai
+Maruti,2019,New Wagon-R LXI CNG 1.0,Manual,34544,1st,CNG,MH05-EA0706,10010,512000,0,Mulund West,Mumbai
+Maruti,2018,Celerio VXI CNG,Manual,71263,1st,CNG,MH05-DS6915,8192,419000,0,Mulund West,Mumbai
+Honda,2019,City 1.5L I-VTEC VX CVT,Automatic,39198,2nd,Petrol,MH47-AG6878,15627,821000,0,Goregaon,Mumbai
+Maruti,2017,Baleno ALPHA PETROL 1.2,Manual,22580,1st,Petrol,MH47-W4935,10655,545000,0,Goregaon,Mumbai
+Hyundai,2016,Xcent S 1.2,Manual,42302,3rd,Petrol,MH01-CD7972,7116,364000,0,Mulund West,Mumbai
+Renault,2022,TRIBER RXT AMT,Automatic,4506,1st,Petrol,MH04-LB1758,13411,686000,0,Goregaon,Mumbai
+Honda,2012,Brio S MT,Manual,31562,1st,Petrol,MH03-BH2197,8403,252999,0,Seawood,Mumbai
+Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,Automatic,113432,1st,Petrol,MH01-DK7772,17611,810000,0,Goregaon,Mumbai
+Ford,2015,Ecosport TITANIUM 1.5L PETROL AT,Manual,43157,1st,Petrol,MH01-BY9222,10010,512000,0,Goregaon,Mumbai
+Maruti,2016,Swift Dzire VXI,Manual,49757,2nd,Petrol,MH02-EE8843,8837,451999,0,Mulund West,Mumbai
+Honda,2020,City 1.5L I-VTEC VX CVT,Manual,26253,1st,Petrol,MH43-BU2718,19814,1041000,0,Goregaon,Mumbai
+Maruti,2013,Wagon R 1.0 VXI,Manual,28109,1st,Petrol,MH04-GE0012,7215,274000,0,Mulund West,Mumbai
+Honda,2015,City 1.5L I-VTEC VX,Manual,61150,1st,Petrol,MH02-DW9509,10498,537000,0,Seawood,Mumbai
+Maruti,2016,Ertiga VDI SHVS,Manual,56645,1st,Diesel,MH43-AW2418,14643,749000,0,Mulund West,Mumbai
+Hyundai,2016,Elite i20 SPORTZ 1.2,Manual,53377,1st,Petrol,MH02-EE5148,9990,511000,0,Goregaon,Mumbai
+Hyundai,2013,i10 SPORTZ 1.2,Manual,37955,1st,Petrol,MH43-AN4332,7531,286000,0,Goregaon,Mumbai
+Hyundai,2015,Grand i10 ASTA (O) 1.2 KAPPA VTVT,Manual,27741,1st,Petrol,MH01-BY5572,8465,433000,0,Mulund West,Mumbai
+Maruti,2021,New Wagon-R LXI CNG 1.0,Manual,19622,1st,CNG,MH47-AY1942,12297,629000,0,Seawood,Mumbai
+Tata,2022,Tiago XZA PLUS PETROL,Automatic,5579,1st,Petrol,MH04-LH2392,13666,699000,0,Mulund West,Mumbai
+Maruti,2021,S PRESSO VXI+,Manual,11271,1st,Petrol,MH02-FN8531,8856,453000,0,Seawood,Mumbai
+Hyundai,2017,Elite i20 ASTA 1.2 (O),Manual,71639,1st,Petrol,MH03-CM8030,10498,537000,0,Seawood,Mumbai
+Hyundai,2021,Creta SX (O) IVT 1.5 PETROL,Automatic,20982,1st,Petrol,MH02-FN1150,30013,1577000,0,Goregaon,Mumbai
+Maruti,2015,Swift Dzire ZXI,Manual,63998,1st,Petrol,MH03-BW6453,9169,469000,0,Mulund West,Mumbai
+Maruti,2017,Ciaz ZDI+ SHVS,Manual,61662,2nd,Diesel,MH47-W0702,11574,592000,0,Mulund West,Mumbai
+Tata,2022,Harrier XZA PLUS 2.0L DARK EDITION,Automatic,30117,1st,Diesel,MH04-LB2208,37535,1972000,0,Mulund West,Mumbai
+Ford,2019,Ecosport TITANIUM 1.0L ECOBOOST SPORTS(SUNROOF),Manual,30599,2nd,Petrol,MH43-BN4348,15308,783000,0,Mulund West,Mumbai
+Ford,2019,Ecosport TITANIUM + 1.5L PETROL AT,Automatic,65065,1st,Petrol,MH04-JV8302,14311,732000,0,Mulund West,Mumbai
+Maruti,2014,Celerio VXI AMT,Automatic,25428,1st,Petrol,MH02-DN8398,7741,348000,0,Mulund West,Mumbai
+Maruti,2015,Ertiga ZDI,Manual,74602,1st,Diesel,MH02-DW5985,16394,737000,0,Seawood,Mumbai
+Maruti,2015,Wagon R 1.0 LXI CNG,Manual,47540,1st,CNG,MH04-GZ5417,9691,368000,0,Goregaon,Mumbai
